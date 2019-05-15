@@ -4,8 +4,8 @@ Revenir sur l'[Acceuil](Introduction.md)
 
 1. Définitions
 2. **Historique**
-3. Utilisation
+3. Explications techniques
+4. Utilisation
    * Vie quotidienne
    * En bibliothèque
-4. Fonctionnement technique
 5. Avenir
