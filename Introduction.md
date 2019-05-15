@@ -1,7 +1,7 @@
-# Bienvenue dans le Futur ! :alien: :rocket:
-#### Es-tu prêt.e à `voyager` ? :ocean:
-#### N'as tu pas `peur ?` :scream:
-#### Es-tu `curieux.se ?` :open_mouth:
+# Bienvenue dans le Futur ! 
+#### Es-tu prêt.e à `voyager` ? 
+#### N'as tu pas `peur ?` 
+#### Es-tu `curieux.se ?`
 ```
 Alors, ne réfléchis plus, ce site est fait pour toi !
 ```
