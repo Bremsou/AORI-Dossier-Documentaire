@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
-Renvoi vers [Introduction](Introduction.md)
+# Welcome to GitHub Pages !
+* Renvoi vers [Introduction](Introduction.md)
 
 
