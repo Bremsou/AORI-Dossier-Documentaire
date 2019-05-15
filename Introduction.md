@@ -12,6 +12,6 @@ Alors, ne réfléchis plus, ce site est fait pour toi !
 2. [Histoire](Histoire.md)
 3. [Explications techniques](Fonctionnement.md)
 4. [Utilisation](Utilisation.md)  
-   `* Vie quotidienne  
-   `* En bibliothèque
+   * Vie quotidienne  
+   * En bibliothèque
  5. [Avenir](Avenir.md)
