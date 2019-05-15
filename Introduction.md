@@ -8,7 +8,7 @@ Alors, ne réfléchis plus, ce site est fait pour toi !
 
 #### Voici la strucuture de mon dossier documentaire...
 ##### Réalité Augmentée
-1. [Définition] (lien)
+1. [Définitions](https://github.com/Bremsou/AORI-Dossier-Documentaire/edit/master/Definition.md)
 2. Histoire
 3. Explications techniques
 4. Utilisation
