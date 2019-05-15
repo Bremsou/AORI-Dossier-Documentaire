@@ -11,7 +11,7 @@ Alors, ne réfléchis plus, ce site est fait pour toi !
 1. [Définitions](Definition.md)
 2. Histoire
 3. Explications techniques
-4. Utilisation
-   - Vie quotidienne
-   - En bibliothèque
+4. Utilisation  
+   `* Vie quotidienne  
+   `* En bibliothèque
  5. Avenir
