@@ -1,7 +1,7 @@
 ## Vous êtes ici  
 Revenir sur l'[Acceuil](Introduction.md)
 
-1. **Définition**
+1. **Définitions**
 2. Histoire
 3. Explications techniques
 4. Utilisation  
@@ -9,5 +9,5 @@ Revenir sur l'[Acceuil](Introduction.md)
    * En bibliothèque
  5. Avenir  
  
- ## Définition
+ ## Définitions
  
