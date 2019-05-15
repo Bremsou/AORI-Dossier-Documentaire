@@ -2,7 +2,7 @@
 Revenir sur l'[Acceuil](Introduction.md)
 
 1. **Définitions**
-2. Histoire
+2. Historique
 3. Explications techniques
 4. Utilisation  
    * Vie quotidienne  
