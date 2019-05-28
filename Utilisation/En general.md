@@ -11,5 +11,4 @@
 * Médecine ??
 5. Avenir
 
-## Quels sont les domaines rincipaux dans lesquels la réalité augmentée est déjà présente et utilisée ?
-
+## Quels sont les domaines principaux dans lesquels la réalité augmentée est déjà utilisée ?
