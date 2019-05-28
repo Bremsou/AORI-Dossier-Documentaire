@@ -8,8 +8,8 @@
 2. Historique
 3. Explications techniques
 4. Utilisation  
-   * Vie quotidienne  
-   * En bibliothèque
+   + Vie quotidienne  
+   + En bibliothèque
  5. Avenir  
 -----------------------------------------------
  
