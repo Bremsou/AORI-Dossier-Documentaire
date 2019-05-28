@@ -12,7 +12,7 @@ Alors, ne réfléchis plus, ce site est fait pour toi !
 1. [Définitions](Definition.md)
 2. [Historique](Histoire.md)
 3. [Explications techniques](Fonctionnement.md)
-4. Utilisation
+4. [Utilisation](utilisation.md)
    * [En général](Ut-en general.md)
    * En bibliothèque
    * En médecine
