@@ -13,7 +13,7 @@ Alors, ne réfléchis plus, ce site est fait pour toi !
 2. [Historique](Histoire.md)
 3. [Explications techniques](Fonctionnement.md)
 4. [Utilisation](utilisation.md)
-   >>> [En général](engeneral.md)
-   >>> [En bibliothèque](bibli.md)
-   >>> En médecine
+  + [En général](engeneral.md)
+  + [En bibliothèque](bibli.md)
+  + En médecine
  5. [Avenir](Avenir.md)
