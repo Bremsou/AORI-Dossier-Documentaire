@@ -14,12 +14,12 @@
 -----------------------------------------------
  
  ## Définitions  
-Première définition afin d'avoir une vue d'ensemble sur la **réalité augmentée**. 
+* Première définition afin d'avoir une vue d'ensemble sur la **réalité augmentée**. 
 ZAPPAR. Zappar: What Is Augmented Reality (AR)? ? Dans : Zappar [en ligne]. 2019. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.zappar.com/augmented-reality/.
 
 ![Définition de base](/Images/def2.JPG)
 
-ARTEFACTO. Définition : Qu’est-ce que la réalité augmentée ? Dans : Artefacto [en ligne]. 2018. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-augmentee/.
+* ARTEFACTO. Définition : Qu’est-ce que la réalité augmentée ? Dans : Artefacto [en ligne]. 2018. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-augmentee/.
 
  ![Définition plus précise](/Images/def1.JPG)
  
