@@ -7,9 +7,9 @@
 1. **Définitions**
 2. [Historique](Historique.md)
 3. [Explications techniques](Fonctionnement.md)
-4. Utilisation  
-   + Vie quotidienne  
-   + En bibliothèque
+4. [Utilisation](utilisation.md)
+   + [Vie quotidienne](engeneral.md)  
+   + [En bibliothèque](bibli.md)
  5. [Avenir](Avenir.md)   
  
 -----------------------------------------------
