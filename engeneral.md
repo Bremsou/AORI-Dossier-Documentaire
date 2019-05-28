@@ -4,8 +4,6 @@
 [Acceuil](Introduction.md)
 
 
-4. **Utilisation en général**
-
 1. [Définitions](Definition.md)
 2. [Historique](Histoire.md)
 3. [Explications techniques](Fonctionnement.md)
