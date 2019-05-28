@@ -4,14 +4,15 @@
 ## Vous êtes ici  
 [Acceuil](Introduction.md)
 
-1. **Définitions**
+1. **Définitions**  
 2. [Historique](Histoire.md)
 3. [Explications techniques](Fonctionnement.md)
 4. [Utilisation](utilisation.md)
-   + [Vie quotidienne](engeneral.md)  
-   + [En bibliothèque](bibli.md)
- 5. [Avenir](Avenir.md)   
- 
+  + [En général](engeneral.md)
+  + [En bibliothèque](bibli.md)
+  + En médecine
+ 5. [Avenir](Avenir.md)
+
 -----------------------------------------------
  
  ## Définitions  
