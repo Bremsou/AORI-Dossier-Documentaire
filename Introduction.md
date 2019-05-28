@@ -1,6 +1,8 @@
-# Bienvenue dans le Futur ! 
+# Bienvenue sur mon site !
 
 #### Sais-tu ce qu'est la `réalité augmentée ?`
+#### A quoi ça sert ?
+#### 
 ```
 Alors, ne réfléchis plus, ce site est fait pour toi !
 ```
