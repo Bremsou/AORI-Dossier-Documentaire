@@ -14,8 +14,9 @@
 -----------------------------------------------
  
  ## Définitions  
- Dans cette première classe, nous allons expliquer ce qu'est la réalité augmentée précisément, afin de bien comprendre la suite de ce dossier, il est important de maitriser ces quelques notions. Plusieurs définitions sont proposées allant de la plus *simple* à la plus *technique*. 
- ![blague](defrire.JPG)
+ Dans cette première classe, nous allons expliquer ce qu'est la réalité augmentée précisément, afin de bien comprendre la suite de ce dossier, il est important de maitriser ces quelques notions. Plusieurs définitions sont proposées allant de la plus *simple* à la plus *technique*.  
+ 
+ ![blague](/Images/defrire.JPG)
  
  ````
  Bonne lecture !
