@@ -14,5 +14,7 @@
 -----------------------------------------------
  
  ## Définitions
+ARTEFACTO. Définition : Qu’est-ce que la réalité augmentée ? Dans : Artefacto [en ligne]. 2018. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-augmentee/.
+
  ![Définition de base](/Images/def1.JPG)
  
