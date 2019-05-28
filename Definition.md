@@ -5,12 +5,13 @@
 [Acceuil](Introduction.md)
 
 1. **Définitions**
-2. Historique
-3. Explications techniques
+2. [Historique](Historique.md)
+3. [Explications techniques](Fonctionnement.md)
 4. Utilisation  
    + Vie quotidienne  
    + En bibliothèque
- 5. Avenir  
+ 5. [Avenir](Avenir.md)   
+ 
 -----------------------------------------------
  
  ## Définitions  
