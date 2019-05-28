@@ -14,6 +14,11 @@
 -----------------------------------------------
  
  ## Définitions  
+ Dans cette première classe, nous allons expliquer ce qu'est la réalité augmentée précisément, afin de bien comprendre la suite de ce dossier, il est important de maitriser ces quelques notions. Plusieurs définitions sont proposées allant de la plus *simple* à la plus *technique*. 
+ ````
+ Bonne lecture !
+ ````
+ 
 * Première définition afin d'avoir une vue d'ensemble sur la **réalité augmentée**.  
 
 ZAPPAR. Zappar: What Is Augmented Reality (AR)? ? Dans : Zappar [en ligne]. 2019. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.zappar.com/augmented-reality/.
