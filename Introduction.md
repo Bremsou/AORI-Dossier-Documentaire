@@ -14,6 +14,7 @@ Ce dossier est divisé en différentes sections et sous-divisions que vous retro
 
 
 #### Voici la strucuture de mon dossier documentaire...
+-------------------------------------------------------------------------------------------------------------------------------------------
 ##### Réalité Augmentée
 1. [Définitions](Definition.md)
 2. [Historique](Histoire.md)
