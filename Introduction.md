@@ -2,7 +2,9 @@
 
 #### `réalité augmentée ?` ou `science fiction ?`
 ```
-Alors, ne réfléchis plus, ce site est fait pour toi !
+Ce site a été crée dans le cadre de mon examen en outils bureautiques et architecture des ordinateurs et réseaux informatiques.
+Ce dossier documentaire prend la forme d'une page web, il compulse différents documents qui ont pour thématique principale: la réalité augmentée.
+Ce dossier est divisé en différentes sections et sous-divisions que vous retrouverez plus bas.
 ```
 
 #### Voici la strucuture de mon dossier documentaire...
