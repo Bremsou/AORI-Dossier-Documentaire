@@ -1,6 +1,6 @@
 # Bienvenue dans le Futur ! 
 
-#### Es-tu `curieux.se ?`
+#### Sais-tu ce qu'est la `réalité augmentée ?`
 ```
 Alors, ne réfléchis plus, ce site est fait pour toi !
 ```
