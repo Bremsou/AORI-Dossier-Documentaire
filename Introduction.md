@@ -17,6 +17,7 @@ Bla Bla Bla
 ### Voici la strucuture de mon dossier documentaire...
 -------------------------------------------------------------------------------------------------------------------------------------------
 ##### Réalité Augmentée
+-------------------------------------------------------------------------------------------------------------------------------------------
 1. [Définitions](Definition.md)
 2. [Historique](Histoire.md)
 3. [Explications techniques](Fonctionnement.md)
