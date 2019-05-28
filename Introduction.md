@@ -1,6 +1,5 @@
 # Bienvenue dans le Futur ! 
-#### Es-tu prêt.e à `voyager` ? 
-#### N'as tu pas `peur ?` 
+
 #### Es-tu `curieux.se ?`
 ```
 Alors, ne réfléchis plus, ce site est fait pour toi !
