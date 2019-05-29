@@ -1,4 +1,4 @@
-# AORI - Mon dossier documentaire
+# AORI | Mon dossier documentaire
 # Bienvenue sur mon site !
 -------------------------------------------------------------------------------------------------------------------------------------------
 
