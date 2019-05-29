@@ -7,10 +7,10 @@
 1. **Définitions**  
 2. [Historique](Histoire.md)
 3. [Explications techniques](Fonctionnement.md)
-4. [Utilisation](utilisation.md)
-     > [En général](engeneral.md)
-     >[En bibliothèque](bibli.md)
-     >En médecine
+4. [Utilisation](utilisation.md)  
+     > [En général](engeneral.md)  
+     >[En bibliothèque](bibli.md)  
+     > En médecine  
  5. [Avenir](Avenir.md)
 
 -----------------------------------------------
