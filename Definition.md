@@ -31,6 +31,8 @@
 
  ![Définition plus précise](/Images/def1.JPG)
  
+ * THE INTERACTION DESIGN FOUNDATION. Augmented Reality – The Past, The Present and The Future. Dans : The Interaction Design Foundation [en ligne]. 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.interaction-design.org/literature/article/augmented-reality-the-past-the-present-and-the-future.
+ 
  ![Définition plus technique](/Images/def3.JPG)
  
  
