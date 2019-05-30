@@ -24,6 +24,6 @@ Bonne lecture !
 ````
 * WERNER, John et TEDXASBURYPARK. Augmented Reality [en ligne]. Asbury Park, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=RDvBowq3ed8.  
 
-![Défintion facile](/Images/JPG)
+![Défintion facile](/Images/vs1.JPG)
  
  
