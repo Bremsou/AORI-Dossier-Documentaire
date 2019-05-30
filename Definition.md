@@ -42,6 +42,8 @@ Dans cette première classe, nous allons expliquer ce qu'est la réalité augmen
  
  ![Définition plus technique](/Images/def3.JPG)
  
+ * 
+ 
 * Définition réalité augmentée – Qu’est-ce que la RA ? Dans : Réalité-Virtuelle.com [en ligne]. [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.realite-virtuelle.com/definition-realite-augmentee.
 
 ![Définiton d'application](/Images/def4.JPG)
