@@ -28,9 +28,10 @@ Dans cette première classe, nous allons expliquer ce qu'est la réalité augmen
   ![Définition de base](/Images/def2.JPG)
   
 
-*  RAPIEN, David. Augmented Reality and the Future of Learning and Business | David Rapien | TEDxUCincinnati [en ligne]. Cincinnati : TED Talk, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=IEzaFR_X35U.  
+*  RAPIEN, David. Augmented Reality and the Future of Learning and Business. TEDxUCincinnati [en ligne]. Cincinnati : TED Talk, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=IEzaFR_X35U.  
 
 ![Définition de base 2](/Images/def5.JPG)  
+![Définiton exemple](/I
 
 * ARTEFACTO. Définition : Qu’est-ce que la réalité augmentée ? Dans : Artefacto [en ligne]. 2018. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-augmentee/.     
 
