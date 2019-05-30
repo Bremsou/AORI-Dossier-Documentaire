@@ -5,6 +5,7 @@
 [Acceuil](Introduction.md)
 
 1. **Définitions**  
+    I. Réaltité virtuelle V.S. augmentée 
 2. [Historique](Histoire.md)
 3. [Explications techniques](Fonctionnement.md)
 4. [Utilisation](utilisation.md)  
