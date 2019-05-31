@@ -50,8 +50,10 @@ Dans cette première classe, nous allons expliquer ce qu'est la réalité augmen
 
 *  GROOM, Ryan. Augmented Reality, science fiction is now science fact [en ligne]. Moncton, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=2zsIXVqxbuc.  
 
-![Définition complète](/Images/def6.JPG)
+![Définition complète](/Images/def6.JPG)  
 
-![Définition 7](/Imagesdef
+* AUGMENT. Virtual Reality vs. Augmented Reality. Dans : Augment News [en ligne]. Octobre 2015. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/virtual-reality-vs-augmented-reality/.
+
+![Définition 7](/Imagesdef7.JPG)
  
  
