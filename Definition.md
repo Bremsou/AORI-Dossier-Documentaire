@@ -51,5 +51,7 @@ Dans cette première classe, nous allons expliquer ce qu'est la réalité augmen
 *  GROOM, Ryan. Augmented Reality, science fiction is now science fact [en ligne]. Moncton, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=2zsIXVqxbuc.  
 
 ![Définition complète](/Images/def6.JPG)
+
+![Définition 7](/Imagesdef
  
  
