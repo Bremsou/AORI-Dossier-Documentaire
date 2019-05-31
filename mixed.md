@@ -23,7 +23,6 @@ Nous allons encore creuser notre sujet. Maintenant que nous avons compris les di
 ````
 Bonne lecture !
 ````
-* THE FRANKLIN INSTITUTE et THE PEWCENTER FOR ARTS & HERITAGE. What’s the Difference Between AR, VR, and MR? Dans : The Franklin Institute [en ligne]. 21 septembre 2017. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://www.fi.edu/difference-between-ar-vr-and-mr.    
-
 [premiere realite mixte](/Images/mr1.JPG)
+
 
