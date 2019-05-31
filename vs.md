@@ -32,7 +32,8 @@ Bonne lecture !
 ![VS plus complet](/Images/vs2.JPG)
 ![VS schema](/Images/vs3.JPG)  
  
- * VOA: LEARNING ENGLISH et HALFPRICE SHUTTERS. Augmented Reality vs. Virtual Reality – What’s the Difference? Dans : VOA [en ligne]. mai 2017. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://learningenglish.voanews.com/a/augmented-reality-versus-virtual-reality/3844772.html.  
+ * WEAVER, Catherine. Augmented Reality vs. Virtual Reality – What’s the Difference? Dans : VOA: learning english [en ligne]. mai 2017. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://learningenglish.voanews.com/a/augmented-reality-versus-virtual-reality/3844772.html.
+ 
  ![VS schema2](/Images/vs4.JPG)
  
  
