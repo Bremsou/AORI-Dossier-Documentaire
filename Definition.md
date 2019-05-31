@@ -54,6 +54,6 @@ Dans cette première classe, nous allons expliquer ce qu'est la réalité augmen
 
 * AUGMENT. Virtual Reality vs. Augmented Reality. Dans : Augment News [en ligne]. Octobre 2015. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/virtual-reality-vs-augmented-reality/.
 
-![Définition 7](/Imagesdef7.JPG)
+![Définition 7](/Images/def7.JPG)
  
  
