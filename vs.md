@@ -30,6 +30,9 @@ Bonne lecture !
 * AUGMENT. Virtual Reality vs. Augmented Reality. Dans : Augment News [en ligne]. Octobre 2015. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/virtual-reality-vs-augmented-reality/.
 
 ![VS plus complet](/Images/vs2.JPG)
-![VS schema](/Images/vs3.JPG)
+![VS schema](/Images/vs3.JPG)  
+ 
+ * VOA: LEARNING ENGLISH et HALFPRICE SHUTTERS. Augmented Reality vs. Virtual Reality – What’s the Difference? Dans : VOA [en ligne]. mai 2017. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://learningenglish.voanews.com/a/augmented-reality-versus-virtual-reality/3844772.html.  
+ ![VS schema2](/Images/vs4.JPG)
  
  
