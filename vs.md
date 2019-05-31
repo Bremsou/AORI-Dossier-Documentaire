@@ -36,8 +36,8 @@ Bonne lecture !
  
  ![VS schema2](/Images/vs4.JPG)  
  
- * HUBSPOT. What Is the Difference Between Augmented Reality (AR) and Virtual Reality (VR)? [en ligne]. Massachussets, USA, avril 2018. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=ZQ2XO7HerfI.
- 
- ![VS schema 3](/Images/vs
+ * HUBSPOT. What Is the Difference Between Augmented Reality (AR) and Virtual Reality (VR)? [en ligne]. Massachussets, USA, avril 2018. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=ZQ2XO7HerfI.  
+  
+ ![VS schema 3](/Images/vs5.JPG]
  
  
