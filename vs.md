@@ -30,5 +30,6 @@ Bonne lecture !
 * AUGMENT. Virtual Reality vs. Augmented Reality. Dans : Augment News [en ligne]. Octobre 2015. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/virtual-reality-vs-augmented-reality/.
 
 ![VS plus complet](/Images/vs2.JPG)
+![VS schema](/Images/vs3.JPG)
  
  
