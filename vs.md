@@ -17,6 +17,7 @@
 
 -----------------------------------------------
  **Réalité virtuelle V.S. augmentée**
+ ---------------------------------------------------------------------------------------------------------------------------------------
  
 Voilà deux termes qui se ressemblent et qui sont pourtant biens différents ! Beaucoup confondent ces *réalités*, ainsi, il est nécessaire de comprendre *pourquoi* ces technologies sont dissimilaires. Toutefois notons bien que ___je ne rentrerais pas en profondeur dans les explications de la réalité virtuelle puisque ceci n'est pas le sujet de ce dossier documentaire___.
 
