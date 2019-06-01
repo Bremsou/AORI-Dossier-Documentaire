@@ -32,7 +32,7 @@ Bonne lecture !
 *   A DAY INFO. About Sensorama [en ligne]. mai 2017. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=veTmp1jCuKw.
 ![date invention](/Images/senso5.JPG)
 
-
+* HINOJOSA, Santiago. Virtual Reality - A History of the Future (Part 1). Dans : The Tech Ninja’s Dojo [en ligne]. 27 avril 2016. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://thetech.ninja/virtual-reality-history-future-part-1/.  
 ![inventeur sensorama](/Images/senso6.JPG)  
 
 * ANTAYA, Felipe. La réalité augmentée, d’hier à aujourd’hui. Dans : École branchée [en ligne]. 2 octobre 2017. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://ecolebranchee.com/realite-augmentee-histoire/.  
