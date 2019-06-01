@@ -25,7 +25,7 @@
 **Le Sensorama** ou une première base de réalité augmentée
 ----------------------------------------------------------------------------------------------------------------------------------------
 Cette section relativement importante relate la première invention réelle des réalités (virtuelle et augmentée). Jusqu'à présent, on *pense* à la réalité augmentée, sans jamais mettre un réel système en place. Ici, nous verrons une première technologie qui permet d'__augmenter__ ...la réalité !  
-Cette technologie est le __Sensorama__. Il connaîtra deux périodes, que vous retrouverez dans les sous-classes suivantes. 
+Cette technologie est le __Sensorama__. Il connaîtra deux versions, que vous retrouverez dans les sous-classes suivantes.   Cette section vous explique ce qu'est le __Sensorama__, __qui__ l'a inventé, et à quelle __période__.
 ````
 Bonne lecture !
 ````
