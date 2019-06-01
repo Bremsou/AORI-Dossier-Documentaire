@@ -37,6 +37,6 @@ Bonne lecture !
 ![sensorama](/Images/senso1.JPG)
 
 * SAKANE, Itsuo. Morton Heilig’s Sensorama (Interview) [en ligne]. janvier 2011. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vSINEBZNCks.
-![sensorama interview](
+![sensorama interview](/Images/senso4.JPG)
 
 
