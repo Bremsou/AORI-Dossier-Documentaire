@@ -23,6 +23,11 @@ Nous allons encore creuser notre sujet. Maintenant que nous avons compris les di
 ````
 Bonne lecture !
 ````
-![premiere realite mixte](/Images/mr1.JPG)
+* 
+![premiere realite mixte](/Images/mr1.JPG)  
+
+* 
+
+![image realite mixte](/Images/mr2.JPG)  
 
 
