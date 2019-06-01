@@ -14,9 +14,9 @@
  3.1. Limites de la R.A.
 4. [Explications techniques](Fonctionnement.md)
 5. [Utilisation](utilisation.md)
-  + [En général](engeneral.md)
-  + [En bibliothèque](bibli.md)
-  + En médecine
+  5.1. [En général](engeneral.md)
+  5.2. [En bibliothèque](bibli.md)
+  5.3. En médecine
  6. [Avenir](Avenir.md)
 
 -----------------------------------------------
