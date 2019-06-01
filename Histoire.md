@@ -20,7 +20,7 @@
 
 Dans cette section vous trouverez les débuts de la réalité augmentée. 
    - *Quand est-elle apparue ?* 
-   - * Par qui?* 
+   - *Par qui?* 
    - *Est-ce le résultat d'une évolution ?* 
 L'historique me semblait être important a aborder puisque cela nous permet de nous resituer par rapport à d'autres technologies.
 
