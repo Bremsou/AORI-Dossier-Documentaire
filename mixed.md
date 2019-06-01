@@ -33,4 +33,9 @@ Bonne lecture !
 ![Definiton realite mixte](/Images/mr3.JPG)  
 
 * ARTEFACTO. Définition : Qu’est-ce que la réalité mixte ? Dans : Artefacto [en ligne]. 2018. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-mixte/.  
-![defintion plus precise mr](/Images/mr4.JPG)
+![defintion plus precise mr](/Images/mr4.JPG)  
+
+* ROUSE, Margaret. Que signifie Réalité mixte (réalité hybride, réalité étendue)?: definiton. Dans : Whatls [en ligne]. Aout 2018. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://whatis.techtarget.com/fr/definition/Realite-mixte-realite-hybride-realite-etendue.  
+![defintion complete mr](/Images/mr5.JPG)
+
+
