@@ -23,10 +23,11 @@ Nous allons encore creuser notre sujet. Maintenant que nous avons compris les di
 ````
 Bonne lecture !
 ````
-* 
+*  THE FRANKLIN INSTITUTE et THE PEWCENTER FOR ARTS & HERITAGE. What’s the Difference Between AR, VR, and MR? Dans : The Franklin Institute [en ligne]. 21 septembre 2017. [Consulté le 31 mai 2019]. Disponible à l’adresse : https://www.fi.edu/difference-between-ar-vr-and-mr.  
+
 ![premiere realite mixte](/Images/mr1.JPG)  
 
-* 
+* MARINACCI, Josh et MOZILLA DEVELOPPER RELATION. What Is Mixed Reality [en ligne]. Mozilla Hacks, mars 2018. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=v8wtHZDVdlc.  
 
 ![image realite mixte](/Images/mr2.JPG)  
 
