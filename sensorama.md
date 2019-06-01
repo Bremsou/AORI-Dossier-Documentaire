@@ -7,11 +7,11 @@
  1.1. [Réalité virtuelle V.S. augmentée ](vs.md)       
              a. [Réalité mixte](mixed.md)
 2. [Historique](Histoire.md)  
- 2.1. Une tentative   
- 2.2. Prémices ??  
+ 2.1. Evolution    
  2.2. **Sensorama**  
         + [Première version](premierei.md)  
         + Seconde invention  
+ 2.3. L'épée de Damoclès  
 3. Présent  
  3.1. Limites de la R.A.
 4. [Explications techniques](Fonctionnement.md)
