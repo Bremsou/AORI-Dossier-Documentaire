@@ -8,7 +8,7 @@
              a. [Réalité mixte](mixed.md)
 2. **Historique**  
  2.1. Evolution  
- 2.2. [Sensorama](sensorama.md)
+ 2.2. [Sensorama](sensorama.md)  
        + [Première version](premierei.md)  
        + Seconde version
  2.3. L'épée de Damoclès  
