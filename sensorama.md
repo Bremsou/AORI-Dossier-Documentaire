@@ -10,6 +10,8 @@
  2.1. Une tentative   
  2.2. Prémices ??  
  2.2. **Sensorama**  
+        a. Première invention
+        b. Seconde invention
 3. Présent  
  3.1. Limites de la R.A.
 4. [Explications techniques](Fonctionnement.md)
