@@ -20,9 +20,9 @@
  6. [Avenir](Avenir.md)
 
 -----------------------------------------------
-**Le Sensorama** ou une réalité augmentée
--------------------------------------------------------------------------------------------------------------------------------------------
-Cette section relativement importante relate la première invention réelle de la réalité augmentée. Jusqu'à présent, on *pense* à la réalité augmentée, sans jamais mettre un réel système en place. Ici, nous verrons une première technologie qui permet d'__augmenter__ ...la réalité !
+**Le Sensorama** ou une première base de réalité augmentée
+----------------------------------------------------------------------------------------------------------------------------------------
+Cette section relativement importante relate la première invention réelle des réalités (virtuelle et augmentée). Jusqu'à présent, on *pense* à la réalité augmentée, sans jamais mettre un réel système en place. Ici, nous verrons une première technologie qui permet d'__augmenter__ ...la réalité !  
 ````
 Bonne lecture !
 ````
