@@ -7,8 +7,10 @@
  1.1. [Réalité virtuelle V.S. augmentée ](vs.md)       
              a. [Réalité mixte](mixed.md)
 2. **Historique**  
-  2.1. Qui ?  
-  2.2. Quand ?  
+  2.1. Passé  
+             a. Une tentative
+             b. Un premier système
+  2.2. Présent
 3. [Explications techniques](Fonctionnement.md)
 4. [Utilisation](utilisation.md)
   + [En général](engeneral.md)
