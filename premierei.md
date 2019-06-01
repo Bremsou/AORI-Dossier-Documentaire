@@ -9,8 +9,8 @@
 2. [Historique](Histoire.md)  
  2.1. Une tentative   
  2.2. Prémices ??  
- 2.2. Sensorama  
-        + Première invention  
+ 2.2. [Sensorama](sensorama.md)  
+        + **Première invention**  
         + Seconde invention  
 3. Présent  
  3.1. Limites de la R.A.
