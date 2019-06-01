@@ -26,6 +26,9 @@ Cette section relativement importante relate la première invention réelle des 
 ````
 Bonne lecture !
 ````
+*   A DAY INFO. About Sensorama [en ligne]. mai 2017. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=veTmp1jCuKw.
+![date invention](/Images/senso
+
 * ANTAYA, Felipe. La réalité augmentée, d’hier à aujourd’hui. Dans : École branchée [en ligne]. 2 octobre 2017. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://ecolebranchee.com/realite-augmentee-histoire/.  
 ![sensorama simplifie](/Images/senso2.JPG)   
 
