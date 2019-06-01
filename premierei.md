@@ -22,7 +22,7 @@
  6. [Avenir](Avenir.md)  
 
 -----------------------------------------------
-**La première version** du __Sensorama__ ou Sensorama motion picture projector
+**La première version** du __Sensorama__ ou **Sensorama motion picture projector**
 ----------------------------------------------------------------------------------------------------------------------------------------
 Cette classe regroupe différentes sources traitant de la première version du __Sensorama__, appelée **sensorama motion picture projector**.
 ````
