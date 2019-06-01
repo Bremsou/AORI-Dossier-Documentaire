@@ -27,3 +27,5 @@ Cette section relativement importante relate la première invention réelle de l
 Bonne lecture !
 ````
 
+*   LA RÉALITÉ AUGMENTÉE. La fantastique épopée de la réalité augmentée. Dans : La Réalité Augmentée [en ligne]. [s. d.]. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://www.larealiteaugmentee.info/histoire-realite-augmentee/.  
+
