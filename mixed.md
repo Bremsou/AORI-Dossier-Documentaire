@@ -30,6 +30,7 @@ Bonne lecture !
 ![image realite mixte](/Images/mr2.JPG)  
 
 * REALITY TECHNOLOGIES. What is Mixed Reality (MR)? The Ultimate Guide to Mixed Reality (MR). Dans : Reality technologies [en ligne]. [s. d.]. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.realitytechnologies.com/mixed-reality/.  
-![Definiton realite mixte](/Images/mr3.JPG)
+![Definiton realite mixte](/Images/mr3.JPG)  
 
-
+* ARTEFACTO. Définition : Qu’est-ce que la réalité mixte ? Dans : Artefacto [en ligne]. 2018. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-mixte/.  
+![defintion plus precise mr](/Images/mr4
