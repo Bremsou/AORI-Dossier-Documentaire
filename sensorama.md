@@ -10,7 +10,7 @@
  2.1. Une tentative   
  2.2. Prémices ??  
  2.2. **Sensorama**  
-        + Première invention  
+        + [Première version](premierei.md)  
         + Seconde invention  
 3. Présent  
  3.1. Limites de la R.A.
