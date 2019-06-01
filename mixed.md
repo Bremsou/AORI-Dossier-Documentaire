@@ -17,7 +17,8 @@
 
 -----------------------------------------------
  **Réalité mixte**
-
+ ---------------------------------------------------------------------------------------------------------------------------------------
+ 
 Nous allons encore creuser notre sujet. Maintenant que nous avons compris les différences ___majeures___ entre les réalités augmentées et virtuelles, nous n'allons pas nous arrêter là. En effet, après les voir opposées je me suis demandé si n'y avait pas aussi la possibilité qu'elles *travaillent* ensemble. J'ai vite obtenu une réponse: ___réalité mixte___! Je vous laisse découvrir cette nouvelle technologie...
 
 ````
