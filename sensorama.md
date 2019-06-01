@@ -13,11 +13,11 @@
 3. Présent  
  3.1. Limites de la R.A.
 4. [Explications techniques](Fonctionnement.md)
-5. [Utilisation](utilisation.md)
-  5.1. [En général](engeneral.md)
-  5.2. [En bibliothèque](bibli.md)
-  5.3. En médecine
- 6. [Avenir](Avenir.md)
+5. [Utilisation](utilisation.md)  
+  5.1. [En général](engeneral.md)  
+  5.2. [En bibliothèque](bibli.md)  
+  5.3. En médecine  
+ 6. [Avenir](Avenir.md)  
 
 -----------------------------------------------
 **Le Sensorama** ou une première base de réalité augmentée
