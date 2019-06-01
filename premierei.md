@@ -10,8 +10,8 @@
  2.1. Une tentative   
  2.2. Prémices ??  
  2.2. [Sensorama](sensorama.md)  
-        + **Première invention**  
-        + Seconde invention  
+        + **Première version**  
+        + Seconde version  
 3. Présent  
  3.1. Limites de la R.A.
 4. [Explications techniques](Fonctionnement.md)
@@ -22,7 +22,7 @@
  6. [Avenir](Avenir.md)  
 
 -----------------------------------------------
-**La première version** du __Sensorama__ 
+**La première version** du __Sensorama__ ou Sensorama motion picture projector
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
