@@ -10,7 +10,7 @@
  2.1. Evolution  
  2.2. [Sensorama](sensorama.md)  
        + [Première version](premierei.md)  
-       + Seconde version
+       + Seconde version  
  2.3. L'épée de Damoclès  
 3. Présent  
  3.1. Limites de la R.A.
