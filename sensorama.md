@@ -10,7 +10,7 @@
  2.1. Evolution    
  2.2. **Sensorama**  
         + [Première version](premierei.md)  
-        + Seconde invention  
+        + Seconde version  
  2.3. L'épée de Damoclès  
 3. Présent  
  3.1. Limites de la R.A.
