@@ -41,8 +41,3 @@ Bonne lecture !
 
 *   LA RÉALITÉ AUGMENTÉE. La fantastique épopée de la réalité augmentée. Dans : La Réalité Augmentée [en ligne]. [s. d.]. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://www.larealiteaugmentee.info/histoire-realite-augmentee/.  
 ![sensorama](/Images/senso1.JPG)
-
-*  SAKANE, Itsuo. Morton Heilig’s Sensorama (Interview) [en ligne]. 1980. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vSINEBZNCks.
-![sensorama interview](/Images/senso4.JPG)
-
-
