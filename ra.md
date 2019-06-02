@@ -14,7 +14,7 @@
  2.3. [Sketchpad](logiciel.md)  
         + [L'épée de Damoclès](epee.md)  
  2.4. **Réalité artificielle**  
-        + [Réalité augmentée](ra.md)
+        + **Réalité augmentée**
 3. Présent  
  3.1. Limites de la R.A.
 4. [Explications techniques](Fonctionnement.md)
