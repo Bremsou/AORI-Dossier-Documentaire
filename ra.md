@@ -33,3 +33,7 @@ Enfin ! Le terme de __réalité augmentée__ voit le jour! Cela fait maintenant 
 Bonne lecture !
 ````
 
+*  AUGMENT. Infographic: the History of Augmented Reality - Augment News. Dans : Augment [en ligne]. décembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/infographic-lengthy-history-augmented-reality/.  
+![tom facile](/Images/tom1.JPG)  
+
+* 
