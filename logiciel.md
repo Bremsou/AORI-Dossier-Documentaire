@@ -35,4 +35,8 @@ Bonne lecture !
 * LA RÉALITÉ AUGMENTÉE. La fantastique épopée de la réalité augmentée. Dans : La Réalité Augmentée [en ligne]. [s. d.]. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://www.larealiteaugmentee.info/histoire-realite-augmentee/.  
 ![bonne intro ivan](/Images/lo1.JPG)  
 
+* HINOJOSA, Santiago. Virtual Reality - A History of the Future (Part 1). Dans : The Tech Ninja’s Dojo [en ligne]. 27 avril 2016. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://thetech.ninja/virtual-reality-history-future-part-1/.  
+![excellente definition](/Images/lo3.JPG)
+
+
 
