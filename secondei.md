@@ -11,7 +11,7 @@
  2.2. Prémices ??  
  2.2. [Sensorama](sensorama.md)  
         + [Motion picture projector](premierei.md)  
-        + **  
+        + **Motion picture camera**  
 3. Présent  
  3.1. Limites de la R.A.
 4. [Explications techniques](Fonctionnement.md)
@@ -22,6 +22,6 @@
  6. [Avenir](Avenir.md)  
 
 -----------------------------------------------
-**La première version** du __Sensorama__ ou **motion picture projector**
+**La seconde version** du __Sensorama__ ou **3-D picture camera**
 ----------------------------------------------------------------------------------------------------------------------------------------
-Cette classe regroupe différentes sources traitant de la première version du __Sensorama__, appelée **sensorama motion picture projector**.
+Cette classe regroupe différentes sources traitant de la seconde version du __Sensorama__, appelée **sensorama 3-D motion picture camera**.
