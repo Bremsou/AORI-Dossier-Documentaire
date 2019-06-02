@@ -38,6 +38,9 @@ Bonne lecture !
 * ANTAYA, Felipe. La réalité augmentée, d’hier à aujourd’hui. Dans : École branchée [en ligne]. 2 octobre 2017. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://ecolebranchee.com/realite-augmentee-histoire/.  
 ![sensorama simplifie](/Images/senso2.JPG)   
 
-
 *   LA RÉALITÉ AUGMENTÉE. La fantastique épopée de la réalité augmentée. Dans : La Réalité Augmentée [en ligne]. [s. d.]. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://www.larealiteaugmentee.info/histoire-realite-augmentee/.  
-![sensorama](/Images/senso1.JPG)
+![sensorama]  
+(/Images/senso1.JPG)
+
+* WORDPRESS. Sensorama – HoloLens News [en ligne]. février 2015. [Consulté le 2 juin 2019]. Disponible à l’adresse : https://hololens.wordpress.com/tag/sensorama/.  
+(/Images/senso7.JPG)
