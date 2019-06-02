@@ -12,6 +12,7 @@
  2.2. [Sensorama](sensorama.md)  
         + [Motion picture projector](premierei.md)  
         + **Motion picture camera**  
+ 2.3. [L'épee de Damoclès](epee.md)
 3. Présent  
  3.1. Limites de la R.A.
 4. [Explications techniques](Fonctionnement.md)
