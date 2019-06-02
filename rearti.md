@@ -27,3 +27,9 @@
 **La réalité artificielle**  de Myron Krueger
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+
+````
+Bonne lecture !
+````
+*  AUGMENT. Infographic: the History of Augmented Reality - Augment News. Dans : Augment [en ligne]. décembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/infographic-lengthy-history-augmented-reality/.  
+![myron un](/Images/my1.JPG)
