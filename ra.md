@@ -27,7 +27,7 @@
 -----------------------------------------------
 **La réalité augmentée**  de Tom Caudell
 ---------------------------------------------------------------------------------------------------------------------------------------
-Enfin ! Le terme de __réalité augmentée__ voit le jour! Cela fait maintenant 29 ans que nous utilisons ce nom. Je désirais tout de même parler de cette petite parenthèse qui ne jour toutefois pas un rôle majeur dans l'histoire de la réalité augmentée, mais je trouvais important de savoir qui avait inventé ce nom.
+Enfin ! Le terme de __réalité augmentée__ voit le jour! Cela fait maintenant 29 ans que nous utilisons ce nom. Je désirais tout de même aborder cette petite parenthèse car c'est a partir de ce moment que cette technologie attire l'attention.
 
 ````
 Bonne lecture !
