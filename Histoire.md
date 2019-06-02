@@ -24,20 +24,6 @@
          * En médecine  
  6. [Avenir](Avenir.md)  
 
- 2.1. Evolution  
- 2.2. [Sensorama](sensorama.md)  
-       + [Première version](premierei.md)  
-       + Seconde version  
- 2.3. L'épée de Damoclès  
-3. Présent  
- 3.1. Limites de la R.A.
-4. [Explications techniques](Fonctionnement.md)
-5. [Utilisation](utilisation.md)
-  + [En général](engeneral.md)
-  + [En bibliothèque](bibli.md)
-  + En médecine
- 6. [Avenir](Avenir.md)
-
 -----------------------------------------------
 **Historique de la réalité augmentée**
 -------------------------------------------------------------------------------------------------------------------------------------------
