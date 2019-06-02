@@ -31,8 +31,11 @@ Alors que la classe précédente, **Sensorama**, introduisait surtout les bases 
 ````
 Bonne lecture !
 ````
+* LA RÉALITÉ AUGMENTÉE. La fantastique épopée de la réalité augmentée. Dans : La Réalité Augmentée [en ligne]. [s. d.]. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://www.larealiteaugmentee.info/histoire-realite-augmentee/.  
+![definition introduction](/Images/iv3.JPG)
 
 * RÉALITÉ VIRTUELLE. Définition réalité augmentée – Qu’est-ce que la RA ? Dans : Réalité-Virtuelle.com [en ligne]. [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.realite-virtuelle.com/definition-realite-augmentee.  
 ![description epee](/Images/iv2.JPG)  
+
 * WERNER, John et TEDXASBURYPARK. Augmented Reality [en ligne]. Asbury Park, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=RDvBowq3ed8.  
 ![image pixar](/Images/iv1.JPG)
