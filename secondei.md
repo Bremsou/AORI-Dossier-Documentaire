@@ -22,6 +22,13 @@
  6. [Avenir](Avenir.md)  
 
 -----------------------------------------------
-**La seconde version** du __Sensorama__ ou **3-D picture camera**
+**La seconde version** du __Sensorama__ ou **3-D picture camera**  
 ----------------------------------------------------------------------------------------------------------------------------------------
 Cette classe regroupe différentes sources traitant de la seconde version du __Sensorama__, appelée **sensorama 3-D motion picture camera**.
+
+````
+Bonne lecture !
+````
+
+*  HINOJOSA, Santiago. Virtual Reality - A History of the Future (Part 1). Dans : The Tech Ninja’s Dojo [en ligne]. 27 avril 2016. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://thetech.ninja/virtual-reality-history-future-part-1/.  
+![senso photo](/Images/senso9.JPG)
