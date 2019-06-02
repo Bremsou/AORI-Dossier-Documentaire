@@ -36,4 +36,8 @@ Bonne lecture !
 *  AUGMENT. Infographic: the History of Augmented Reality - Augment News. Dans : Augment [en ligne]. décembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/infographic-lengthy-history-augmented-reality/.  
 ![tom facile](/Images/tom1.JPG)  
 
-* 
+* ARTEFACTO. Définition : Qu’est-ce que la réalité augmentée ? Dans : Artefacto [en ligne]. 2018. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-augmentee/.
+![tom moyen](/Images/tom3.JPG)  
+
+* ANTAYA, Felipe. La réalité augmentée, d’hier à aujourd’hui. Dans : École branchée [en ligne]. 2 octobre 2017. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://ecolebranchee.com/realite-augmentee-histoire/.
+![tom complet](/Images/tom4.JPG)  
