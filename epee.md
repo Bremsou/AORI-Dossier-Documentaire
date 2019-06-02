@@ -12,7 +12,7 @@
  2.2. [Sensorama](sensorama.md)  
         + [Motion picture projector](premierei.md)  
         + [Motion picture camera](secondei.md)  
- 2.3. Un logiciel
+ 2.3. Un logiciel  
         + **L'épée de Damoclès**  
 3. Présent  
  3.1. Limites de la R.A.
@@ -35,8 +35,6 @@ Bonne lecture !
 * LA RÉALITÉ AUGMENTÉE. La fantastique épopée de la réalité augmentée. Dans : La Réalité Augmentée [en ligne]. [s. d.]. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://www.larealiteaugmentee.info/histoire-realite-augmentee/.  
 ![definition introduction](/Images/iv3.JPG)
 
-* AUGMENT. Infographic: the History of Augmented Reality - Augment News. Dans : Augment [en ligne]. décembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/infographic-lengthy-history-augmented-reality/.  
-![histoire ivan](/Images/iv4.JPG)
 
 * RÉALITÉ VIRTUELLE. Définition réalité augmentée – Qu’est-ce que la RA ? Dans : Réalité-Virtuelle.com [en ligne]. [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.realite-virtuelle.com/definition-realite-augmentee.  
 ![description epee](/Images/iv2.JPG)  
