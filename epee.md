@@ -44,4 +44,5 @@ Bonne lecture !
 * THE INTERACTION DESIGN FOUNDATION. Augmented Reality – The Past, The Present and The Future. Dans : The Interaction Design Foundation [en ligne]. 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.interaction-design.org/literature/article/augmented-reality-the-past-the-present-and-the-future.  
 ![impractical device](/Images/iv4.JPG)
 
-* 
+* HINOJOSA, Santiago. Virtual Reality - A History of the Future (Part 1). Dans : The Tech Ninja’s Dojo [en ligne]. 27 avril 2016. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://thetech.ninja/virtual-reality-history-future-part-1/.  
+![derniere epee](/Images/iv6.JPG)
