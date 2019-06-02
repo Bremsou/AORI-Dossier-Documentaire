@@ -7,8 +7,7 @@
  1.1. [Réalité virtuelle V.S. augmentée ](vs.md)       
              a. [Réalité mixte](mixed.md)
 2. [Historique](Histoire.md)  
- 2.1. Une tentative   
- 2.2. Prémices ??  
+ 2.1. Evolution 
  2.2. [Sensorama](sensorama.md)  
         + [Motion picture projector](premierei.md)  
         + [Motion picture camera](secondei.md)  
