@@ -25,7 +25,7 @@
 
 -----------------------------------------------
 **Un logiciel**  par Ivan Sutherland
-----------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 
 Grâce aux avancées informatiques, Ivan Sutherland va inventer le logiciel __Sketchpad__ qui donnera naissance à la première réelle application de réalitée augmentée, je vous laisse le soin d'en découvrir plus...
 
