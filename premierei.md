@@ -10,7 +10,7 @@
  2.1. Une tentative   
  2.2. Prémices ??  
  2.2. [Sensorama](sensorama.md)  
-        + **Première version**  
+        + **Motion picture projector**  
         + Seconde version  
 3. Présent  
  3.1. Limites de la R.A.
@@ -28,7 +28,6 @@ Cette classe regroupe différentes sources traitant de la première version du _
 ````
 Bonne lecture !
 ````
-
 
 * RÉALITÉ VIRTUELLE. Définition réalité augmentée – Qu’est-ce que la RA ? Dans : Réalité-Virtuelle.com [en ligne]. [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.realite-virtuelle.com/definition-realite-augmentee.  
 ![Sensorama simple](/Images/senso3.JPG)
