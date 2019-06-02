@@ -32,6 +32,9 @@ Alors que la classe précédente, **Sensorama**, introduisait surtout les bases 
 ````
 Bonne lecture !
 ````
+*   AUGMENT. Infographic: the History of Augmented Reality - Augment News. Dans : Augment [en ligne]. décembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/infographic-lengthy-history-augmented-reality/.  
+![ivan deux](/Images/lo2.JPG)  
+
 * LA RÉALITÉ AUGMENTÉE. La fantastique épopée de la réalité augmentée. Dans : La Réalité Augmentée [en ligne]. [s. d.]. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://www.larealiteaugmentee.info/histoire-realite-augmentee/.  
 ![definition introduction](/Images/iv5.JPG)  
 
