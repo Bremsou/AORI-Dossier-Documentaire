@@ -12,7 +12,7 @@
  2.2. [Sensorama](sensorama.md)  
         + [Motion picture projector](premierei.md)  
         + [Motion picture camera](secondei.md)  
- 2.3. **Un logiciel**  
+ 2.3. **Sketchpad**  
         + [L'épée de Damoclès](epee.md)  
 3. Présent  
  3.1. Limites de la R.A.
@@ -27,7 +27,7 @@
 **Un logiciel**  par Ivan Sutherland
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Grâce aux avancées informatiques, Ivan Sutherland va inventer un logiciel qui donnera naissance à la première réelle application de réalitée augmentée, je vous laisse le soin d'en découvrir plus...
+Grâce aux avancées informatiques, Ivan Sutherland va inventer le logiciel __Sketchpad__ qui donnera naissance à la première réelle application de réalitée augmentée, je vous laisse le soin d'en découvrir plus...
 
 ````
 Bonne lecture !
