@@ -43,4 +43,5 @@ Bonne lecture !
 ![sensorama1](/Images/senso1.JPG)
 
 * WORDPRESS. Sensorama – HoloLens News [en ligne]. février 2015. [Consulté le 2 juin 2019]. Disponible à l’adresse : https://hololens.wordpress.com/tag/sensorama/.  
-![sensorama bon resume](/Images/senso7.JPG)
+![sensorama bon resume](/Images/senso7.JPG)  
+![sensorama resume final](/Images/senso8.JPG)
