@@ -3,7 +3,6 @@
 ## Vous êtes ici
 [Acceuil](Introduction.md)
 
- 6. [Avenir](Avenir.md)  
  1. [Définitions](Definition.md)  
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
          * [Réalité mixte](mixed.md)  
