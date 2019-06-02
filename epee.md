@@ -12,7 +12,8 @@
  2.2. [Sensorama](sensorama.md)  
         + [Motion picture projector](premierei.md)  
         + [Motion picture camera](secondei.md)  
- 2.3. **L'épée de Damoclès**
+ 2.3. Un logiciel
+        + **L'épée de Damoclès**  
 3. Présent  
  3.1. Limites de la R.A.
 4. [Explications techniques](Fonctionnement.md)
