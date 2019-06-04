@@ -29,3 +29,6 @@
 
 ## Quel est l'avenir de la *réalité augmentée* ?
 
+
+WERNER, John et TEDXASBURYPARK. Augmented Reality [en ligne]. Asbury Park, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=RDvBowq3ed8. 
+[evolution RA1](/Images/evo5.JPG)
