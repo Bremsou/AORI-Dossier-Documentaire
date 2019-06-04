@@ -8,7 +8,7 @@
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
          * [Réalité mixte](mixed.md)  
 2. [Historique](Histoire.md)  
-  2.1. Evolution générale  
+  2.1. [Evolution générale](evolution.md)  
   2.2. [Sensorama](sensorama.md)  
          * [Motion picture projector](premierei.md)   
          * [Motion picture camera](secondei.md)  
@@ -28,7 +28,7 @@
 -----------------------------------------------
  
  **Définitions** 
- ---------------------------------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------------------------------------------------------
 Dans cette première classe, nous allons expliquer ce qu'est la réalité augmentée précisément. Afin de bien comprendre la suite de ce dossier, il est important de maitriser ces quelques notions. Plusieurs définitions sont proposées allant de la plus *simple*, qui premettra d'avoir une *vue d'ensemble* sur la réalité augmentée; aux définitions plus *techniques*.  
 
  ````
