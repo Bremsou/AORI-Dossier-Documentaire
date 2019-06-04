@@ -8,7 +8,7 @@
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
          * [Réalité mixte](mixed.md)  
 2. [Historique](Histoire.md)  
-  2.1. **Evolution générale**  
+  2.1. **Evolution de la R.A.**  
   2.2. [Sensorama](sensorama.md)  
          * [Motion picture projector](premierei.md)   
          * [Motion picture camera](secondei.md)  
@@ -29,9 +29,10 @@
  
  **Evolution générale** des technologies 
  ----------------------------------------------------------------------------------------------------------------------------------------
- Afin d'introduire l'historique de la __réalité augmentée__, nous allons d'abord commencer par l'*évolution des technologies* au fur et à mesure des années jusqu'à nos jours. Vous retrouverez donc majoritairement dans cette section des schémas ou des graphiques représentant les progrès réalisés dans ce domaine.
+ Afin d'introduire l'historique de la __réalité augmentée__, nous allons d'abord commencer par l'*évolution de cette technologie* au fur et à mesure des années jusqu'à nos jours. Vous retrouverez donc majoritairement dans cette section des schémas ou des graphiques en partant des technologies en général, pour aller progressivement vers les progrès de la *réalité augmentée*.
  
  ````
  Bonne lecture !
  ````
+ ![evo en general](/Images/evo1.JPG)
  
