@@ -34,5 +34,8 @@
  ````
  Bonne lecture !
  ````
- ![evo en general](/Images/evo1.JPG)
+ * WERNER, John et TEDXASBURYPARK. Augmented Reality [en ligne]. Asbury Park, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=RDvBowq3ed8.  
+ ![evo en general](/Images/evo1.JPG)  
+ * 
+ ![evo ra1](/Images/evo2.JPG)
  
