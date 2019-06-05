@@ -36,3 +36,9 @@ Nous allons répondre à ces questions qui sont plutôt d'ordre technique.
 ````
 Bonne lecture !
 ````
+* 
+![explication techn1](/Images/fonc
+
+
+* RÉALITÉ VIRTUELLE. Définition réalité augmentée – Qu’est-ce que la RA ? Dans : Réalité-Virtuelle.com [en ligne]. [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.realite-virtuelle.com/definition-realite-augmentee.  
+![explication techn2](/Images/fonc2.JPG)
