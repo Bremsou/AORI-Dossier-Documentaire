@@ -39,4 +39,7 @@ Bonne lecture !
 * AUGMENTED   MEDIA,   2011.   Une   brève   histoire   de   la   réalité   augmentée, Augmented  Media[en  ligne].18  septembre  2011.  [Consulté  le  5 juin 2019]. Disponible   à   l’adresse: https://augmentedmedia.net/2011/09/18/une-breve-histoire-de-la-realite-augmentee  
 ![ultime 2](/Images/ult2.JPG)  
 
+*   PRICEWATERHOUSECOOPERS. The Evolution of Augmented Reality. Dans : PwC [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://www.pwc.be/en/news-publications/insights/2017/the-evolution-of-augmented-reality.html  
+![ultime 3](/Images/ult3.JPG)
+
 
