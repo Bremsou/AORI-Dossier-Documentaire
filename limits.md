@@ -34,5 +34,5 @@ Malgré les larges avancées que nous avons faites avec la réalité augmentée,
 Bonne lecture !
 ````
 
-* 
+* BLOGGER. Limitations of AR. Dans : Augmented Reality [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : http://aboutaugmentedreality.blogspot.com/p/limitations-of-ar.html.  
 ![limitations 1](/Images/li1.JPG)
