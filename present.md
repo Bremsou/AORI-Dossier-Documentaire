@@ -35,3 +35,6 @@ Bonne lecture !
 ````
 * AUGMENT. Infographic: the History of Augmented Reality - Augment News. Dans : Augment [en ligne]. décembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/infographic-lengthy-history-augmented-reality/  
 ![present 1](/Images/pre1.JPG)  
+
+* RATNOTTAR, Sanjay. Augmented Reality (AR) Trends: The Past, Present & Future Predictions For 2019. Dans : Towards Data Science [en ligne]. 15 février 2019. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://towardsdatascience.com/augmented-reality-ar-trends-the-past-present-future-predictions-for-2019-8e1148345304  
+![present 2](/Images/pre2.JPG)  
