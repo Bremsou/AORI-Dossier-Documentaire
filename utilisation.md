@@ -24,7 +24,7 @@ Ici, nous verrons les différentes utilisations de la réalité augmentée, j'ai
  
  **Utilisations** de la technologie dans la __vie quotidienne__
   --------------------------------------------------------------------------------------------------------------------------------------
-Dans quels situations peut-on utiliser la R.A. dans la vie quotidienne de *monsieur et madame tout le monde* ? Peut-être une des sections la plus importante de ce dossier documentaire, étant donné que cela nous concerne tous.tes.
+Dans quels situations peut-on utiliser la R.A. dans la vie quotidienne de *monsieur et madame tout le monde* ? Cette classe est sans doute une des sections les plus importantes de ce dossier documentaire, étant donné que cela nous concerne tous.tes.
 ````
 Bonne lecture !
 ````
