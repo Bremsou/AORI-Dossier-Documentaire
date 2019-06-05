@@ -17,7 +17,7 @@ Ici, nous verrons les différentes utilisations de la réalité augmentée, j'ai
 4. [Explications techniques](Fonctionnement.md)  
 5. **Utilisation**  
          * [En général](engeneral.md)  
-               - [Applications](app.md)
+               - [Applications](app.md)  
          * [En bibliothèque](bibli.md)  
          * En médecine  
  6. [Avenir](Avenir.md)  
