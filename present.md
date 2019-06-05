@@ -43,5 +43,5 @@ Bonne lecture !
 *   PRICEWATERHOUSECOOPERS. The Evolution of Augmented Reality. Dans : PwC [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://www.pwc.be/en/news-publications/insights/2017/the-evolution-of-augmented-reality.html.  
 ![present 3](/Images/pre3.JPG)  
 
-* 
+*   PALMER. The current reality of augmented reality [en ligne]. 9 juillet 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://adage.com/article/opinion/current-reality-augmented-reality/314145.  
 ![present 5](/Images/pre5.JPG)  
