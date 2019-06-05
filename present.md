@@ -4,7 +4,7 @@
 ## Vous êtes ici  
 [Acceuil](Introduction.md)
 
-1. [Définitions](Defintion.md)  
+1. [Définitions](Definition.md)  
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
          * [Réalité mixte](mixed.md)  
 2. [Historique](Histoire.md)  
