@@ -15,10 +15,13 @@ Ici, nous verrons les différentes utilisations de la réalité augmentée, j'ai
 3. Présent  
   3.1. Limites de la R.A.  
 4. [Explications techniques](Fonctionnement.md)  
-5. **Utilisation**  
-         * [En général](engeneral.md)  
-               - [Applications](app.md)  
-         * [En bibliothèque](bibli.md)  
-         * En médecine  
+5. **Utilisations en général**  
+   5.1. [Applications](app.md)  
+   5.2. [En bibliothèque](bibli.md)  
+   5.3.  En médecine  
  6. [Avenir](Avenir.md)  
+ -----------------------------------------------
+ 
+ **Utilisations** de la technologie dans la __vie quotidienne__
+  --------------------------------------------------------------------------------------------------------------------------------------
 
