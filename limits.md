@@ -42,5 +42,5 @@ Bonne lecture !
 ![limitations 2](/Images/li2.JPG)  
 
 * VOLODYMYR, Bilyk. 8 Challenges with Augmented Reality App Development. Dans : The APP solutions [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://theappsolutions.com/blog/development/augmented-reality-challenges/.  
-!
+![limitations 3](/Images/li3.JPG)  
 
