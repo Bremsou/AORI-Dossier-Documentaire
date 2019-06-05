@@ -8,7 +8,7 @@
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
          * [Réalité mixte](mixed.md)  
 2. [Historique](Histoire.md)  
-  2.1. Evolution générale  
+  2.1. [Evolution de la R.A.](evolution.md)  
   2.2. [Sensorama](sensorama.md)  
          * [Motion picture projector](premierei.md)   
          * [Motion picture camera](secondei.md)  
@@ -24,4 +24,12 @@
          * [En bibliothèque](bibli.md)  
          * En médecine  
  6. [Avenir](Avenir.md)  
-
+-----------------------------------------------
+ 
+ **Explications techniques** de la technologie
+ --------------------------------------------------------------------------------------------------------------------------------------
+Intéressons-nous au fonctionnement de la R.A.  
+*Comment fontionne-t-elle ?*  *De quels appareils dépend-t-elle ? Ou au contraire est-elle autonome ?*   *Quelles données sont utilisées ?*    Nous allons répondre à ces questions qui sont d'ordre plutôt technique.
+````
+Bonne lecture !
+````
