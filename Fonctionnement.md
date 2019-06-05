@@ -29,7 +29,10 @@
  **Explications techniques** de la technologie
  --------------------------------------------------------------------------------------------------------------------------------------
 Intéressons-nous au fonctionnement de la R.A.  
-*Comment fontionne-t-elle ?*  *De quels appareils dépend-t-elle ? Ou au contraire est-elle autonome ?*   *Quelles données sont utilisées ?*    Nous allons répondre à ces questions qui sont d'ordre plutôt technique.
+*Comment fontionne-t-elle ?*  
+*De quels appareils dépend-t-elle ? Ou au contraire est-elle autonome ?*     
+*Quelles données sont utilisées ?*  
+Nous allons répondre à ces questions qui sont plutôt d'ordre technique.
 ````
 Bonne lecture !
 ````
