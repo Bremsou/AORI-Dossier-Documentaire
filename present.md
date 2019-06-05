@@ -38,12 +38,10 @@ Bonne lecture !
 
 * RATNOTTAR, Sanjay. Augmented Reality (AR) Trends: The Past, Present & Future Predictions For 2019. Dans : Towards Data Science [en ligne]. 15 février 2019. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://towardsdatascience.com/augmented-reality-ar-trends-the-past-present-future-predictions-for-2019-8e1148345304  
 ![present 2](/Images/pre2.JPG)  
+![present 4](/Images/pre4.JPG)  
 
 *   PRICEWATERHOUSECOOPERS. The Evolution of Augmented Reality. Dans : PwC [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://www.pwc.be/en/news-publications/insights/2017/the-evolution-of-augmented-reality.html.  
 ![present 3](/Images/pre3.JPG)  
-
-* 
-![present 4](/Images/pre4.JPG)  
 
 * 
 ![present 5](/Images/pre5.JPG)  
