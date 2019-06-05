@@ -12,10 +12,10 @@ Ici, nous verrons les différentes utilisations de la réalité augmentée, j'ai
          * [L'épée de Damoclès](epee.md)  
   2.4. [Réalité artificielle](rearti.md)  
          * [Réalité augmentée](ra.md)  
-3. Présent  
-  3.1. Limites de la R.A.  
+3. [Présent](present.md)  
+  3.1. [Limites de la R.A.](limites.md)  
 4. [Explications techniques](Fonctionnement.md)  
-5. **Utilisations en général**  
+5. **Utilisations dans la vie quotidienne**  
    5.1. [Applications](app.md)  
    5.2. [En bibliothèque](bibli.md)  
    5.3.  En médecine  
@@ -24,4 +24,8 @@ Ici, nous verrons les différentes utilisations de la réalité augmentée, j'ai
  
  **Utilisations** de la technologie dans la __vie quotidienne__
   --------------------------------------------------------------------------------------------------------------------------------------
+Dans quels situations peut-on utiliser la R.A. dans la vie quotidienne de *monsieur et madame tout le monde* ? Peut-être une des sections la plus importante de ce dossier documentaire, étant donné que cela nous concerne tous.tes.
+````
+Bonne lecture !
+````
 
