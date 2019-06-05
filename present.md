@@ -29,4 +29,9 @@
  
  **Le présent** 
  --------------------------------------------------------------------------------------------------------------------------------------
-Ou est-ce que la R.A. se situe aujourd'hui ? Quelles améliraions avons-nous apportés à cette technologie par rapport aux années 
+Ou est-ce que la R.A. se situe aujourd'hui ? Quelles améliorations avons-nous apportés à cette technologie par rapport au Sensorama des années 50 ?
+````
+Bonne lecture !
+````
+
+
