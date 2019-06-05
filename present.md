@@ -29,3 +29,4 @@
  
  **Le présent** 
  --------------------------------------------------------------------------------------------------------------------------------------
+Ou est-ce que la R.A. se situe aujourd'hui ? Quelles améliraions avons-nous apportés à cette technologie par rapport aux années 
