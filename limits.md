@@ -36,4 +36,7 @@ Bonne lecture !
 ````
 
 * BLOGGER. Limitations of AR. Dans : Augmented Reality [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : http://aboutaugmentedreality.blogspot.com/p/limitations-of-ar.html.  
-![limitations 1](/Images/li1.JPG)
+![limitations 1](/Images/li1.JPG)  
+
+* LASS, Weronika. The Future of Augmented Reality: Limitations, Possibilities and Hopes | Emerging Education Technologies. Dans : EmergingEdTech [en ligne]. juillet 2015. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://www.emergingedtech.com/2015/07/future-of-augmented-reality-limitations-possibilities-hopes/.  
+![limitations 2](/Images/li2.JPG)  
