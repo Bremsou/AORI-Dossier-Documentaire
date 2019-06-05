@@ -6,7 +6,7 @@
 
 1. **Définitions**  
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
-     *  [Réalité mixte](mixed.md)  
+     * [Réalité mixte](mixed.md)  
 2. [Historique](Histoire.md)  
   2.1. [Evolution générale](evolution.md)  
   2.2. [Sensorama](sensorama.md)  
