@@ -27,5 +27,10 @@
 
 
 -----------------------------------------------
-**La réalité augmentée**  de Tom Caudell
+**L'étape ultime** de la R.A.
 ---------------------------------------------------------------------------------------------------------------------------------------
+Quel est le dernier élément; l'__ultime élément__ qui a permis d'en arriver à la *réalité augmentée* telle que nous l'a connaissons aujourd'hui ? Je vous laisse le décourvir....
+````
+Bonne lecture !
+````
+
