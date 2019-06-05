@@ -19,7 +19,8 @@ Ici, nous verrons les différentes utilisations de la réalité augmentée, j'ai
    5.1. [Applications](app.md)  
    5.2. [En bibliothèque](bibli.md)  
    5.3.  En médecine  
-   5.4. Education
+   5.4. Education  
+   5.5. Patrimoine
  6. [Avenir](Avenir.md)  
  -----------------------------------------------
  
