@@ -37,6 +37,6 @@ Bonne lecture !
 ![ultime 1](/Images/ult1.JPG)  
 
 * AUGMENTED   MEDIA,   2011.   Une   brève   histoire   de   la   réalité   augmentée, Augmented  Media[en  ligne].18  septembre  2011.  [Consulté  le  11  mars  2017]. Disponible   à   l’adresse: https://augmentedmedia.net/2011/09/18/une-breve-histoire-de-la-realite-augmentee
-![ultime 2](.Images/ult2.JPG)  
+![ultime 2](/Images/ult2.JPG)  
 
 
