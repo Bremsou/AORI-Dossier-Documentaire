@@ -33,3 +33,6 @@ Malgré les larges avancées que nous avons faites avec la réalité augmentée,
 ````
 Bonne lecture !
 ````
+
+* 
+![limitations 1](/Images/li1.JPG)
