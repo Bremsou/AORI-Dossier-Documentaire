@@ -36,9 +36,8 @@ Nous allons répondre à ces questions qui sont plutôt d'ordre technique.
 ````
 Bonne lecture !
 ````
-* 
-![explication techn1](/Images/fonc
-
+* ANTAYA, Felipe. La réalité augmentée, d’hier à aujourd’hui. Dans : École branchée [en ligne]. 2 octobre 2017. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://ecolebranchee.com/realite-augmentee-histoire/.  
+![explication techn1](/Images/fonc1.JPG)  
 
 * RÉALITÉ VIRTUELLE. Définition réalité augmentée – Qu’est-ce que la RA ? Dans : Réalité-Virtuelle.com [en ligne]. [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.realite-virtuelle.com/definition-realite-augmentee.  
-![explication techn2](/Images/fonc2.JPG)
+![explication techn2](/Images/fonc2.JPG)  
