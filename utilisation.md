@@ -13,7 +13,7 @@ Ici, nous verrons les différentes utilisations de la réalité augmentée, j'ai
   2.4. [Réalité artificielle](rearti.md)  
          * [Réalité augmentée](ra.md)  
 3. [Présent](present.md)  
-  3.1. [Limites de la R.A.](limites.md)  
+  3.1. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
 5. **Utilisations dans la vie quotidienne**  
    5.1. [Applications](app.md)  
