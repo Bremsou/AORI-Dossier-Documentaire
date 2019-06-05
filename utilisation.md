@@ -31,3 +31,8 @@ Dans quels situations peut-on utiliser la R.A. dans la vie quotidienne de *monsi
 Bonne lecture !
 ````
 
+![everyday 1](/Images/utiquo2.md)  
+
+![everyday 2](/Images/utiquo3.md)  
+
+![everyday3](/Images/utiquo4.md)  
