@@ -32,7 +32,7 @@ Bla Bla Bla
   2.4. [Réalité artificielle](rearti.md)  
      * [Réalité augmentée](ra.md)  
 3. [Présent](present.md)  
-  3.1. Limites de la R.A.  
+  3.1. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
 5. [Utilisation](utilisation.md)  
      * [En général](engeneral.md)  
