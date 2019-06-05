@@ -15,6 +15,7 @@
          * [L'épée de Damoclès](epee.md)  
   2.4. [Réalité artificielle](rearti.md)  
          * **Réalité augmentée**  
+  2.5. [Etape ultime](ultime.md)
 3. Présent  
   3.1. Limites de la R.A.  
 4. [Explications techniques](Fonctionnement.md)  
