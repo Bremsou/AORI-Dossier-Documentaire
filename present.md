@@ -33,5 +33,5 @@ Ou est-ce que la R.A. se situe aujourd'hui ? Quelles améliorations avons-nous a
 ````
 Bonne lecture !
 ````
-
-
+* AUGMENT. Infographic: the History of Augmented Reality - Augment News. Dans : Augment [en ligne]. décembre 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.augment.com/blog/infographic-lengthy-history-augmented-reality/  
+![present 1](/Images/pre1.JPG)  
