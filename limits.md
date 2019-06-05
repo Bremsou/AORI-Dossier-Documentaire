@@ -29,7 +29,7 @@
  
  **Les limites de la réalité augmentée** 
  --------------------------------------------------------------------------------------------------------------------------------------
-Chaque technolgies a ses propres limites; et la *réalité augmentée* n'échappe pas à cette règle. Malgré les larges avancées que nous avons faites avec la réalité augmentée, il reste des limites à cette technologie; que cela soit la puissance des outils utilisés, ou l'accès à la vie privée.  
+Chaque technolgie a ses propres limites; et la *réalité augmentée* n'échappe pas à cette règle. Malgré les larges avancées que nous avons faites avec la réalité augmentée, il reste des limites à cette technologie; que cela soit la puissance des outils utilisés, ou l'accès à la vie privée. J'ai regroupé ici les limites qui revenaient le plus souvent dans les différentes sources consultées.  
 La R.A. n'a pas encore atteint ses.... __limites__ pour autant !
 ````
 Bonne lecture !
