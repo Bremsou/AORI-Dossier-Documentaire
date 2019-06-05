@@ -45,3 +45,6 @@ Bonne lecture !
 
 *   PALMER. The current reality of augmented reality [en ligne]. 9 juillet 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://adage.com/article/opinion/current-reality-augmented-reality/314145.  
 ![present 5](/Images/pre5.JPG)  
+
+* VOLODYMYR, Bilyk. 8 Challenges with Augmented Reality App Development. Dans : The APP solutions [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://theappsolutions.com/blog/development/augmented-reality-challenges/.  
+![present 6](/Images.pre6.JPG)  
