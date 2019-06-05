@@ -40,3 +40,7 @@ Bonne lecture !
 
 * LASS, Weronika. The Future of Augmented Reality: Limitations, Possibilities and Hopes | Emerging Education Technologies. Dans : EmergingEdTech [en ligne]. juillet 2015. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://www.emergingedtech.com/2015/07/future-of-augmented-reality-limitations-possibilities-hopes/.  
 ![limitations 2](/Images/li2.JPG)  
+
+* VOLODYMYR, Bilyk. 8 Challenges with Augmented Reality App Development. Dans : The APP solutions [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://theappsolutions.com/blog/development/augmented-reality-challenges/.  
+!
+
