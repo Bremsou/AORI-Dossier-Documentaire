@@ -41,3 +41,9 @@ Bonne lecture !
 
 *   PRICEWATERHOUSECOOPERS. The Evolution of Augmented Reality. Dans : PwC [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://www.pwc.be/en/news-publications/insights/2017/the-evolution-of-augmented-reality.html.  
 ![present 3](/Images/pre3.JPG)  
+
+* 
+![present 4](/Images/pre4.JPG)  
+
+* 
+![present 5](/Images/pre5.JPG)  
