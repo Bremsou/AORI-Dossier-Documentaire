@@ -34,4 +34,6 @@ Quel est le dernier élément; l'__ultime élément__ qui a permis d'en arriver 
 Bonne lecture !
 ````
 * ARTEFACTO. Définition : Qu’est-ce que la réalité augmentée ? Dans : Artefacto [en ligne]. 2018. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-augmentee/.  
-![ultime 1](/Images/ult1.JPG)
+![ultime 1](/Images/ult1.JPG)  
+
+
