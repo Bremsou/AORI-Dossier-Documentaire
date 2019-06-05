@@ -35,4 +35,5 @@ Bonne lecture !
 
 ![everyday 2](/Images/utiquo3.JPG)  
 
+* MCFADDEN, Christopher. 9 Powerful Real-World Applications Of Augmented Reality (AR) Today [en ligne]. 27 novembre 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://interestingengineering.com/9-powerful-real-world-applications-of-augmented-reality-ar-today.  
 ![everyday3](/Images/utiquo4.JPG)  
