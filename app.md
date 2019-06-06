@@ -32,7 +32,7 @@
  
  **Applications** utilisant la R.A.
   -------------------------------------------------------------------------------------------------------------------------------------
-  Nous l'avons vu, la *réalité augmentée* est aujourd'hui directement présente sur les systèmes d'exploitation des smartphones et tablettes. Mais de plus en plus d'__applications__ utilisent la R.A. afin de prendre des photos, jouer, etc. Je vous laisse découvrir les applis les plus populaires, à vrai dire, elles le sont tellement qu'on ne se rend pas toujours compte qu'elles font (bon) usage de la *réalité augmentée*....
+  Nous l'avons vu, la *réalité augmentée* est aujourd'hui directement présente sur les systèmes d'exploitation des smartphones et tablettes. Mais de plus en plus d'__applications__ utilisent la R.A. afin de prendre des photos, jouer, visualiser, etc. Je vous laisse découvrir les applis les plus populaires, à vrai dire, elles le sont tellement qu'on ne se rend pas toujours compte qu'elles font utilisent la *réalité augmentée*....
 ````
 Bonne lecture !
 ````
@@ -42,3 +42,5 @@ Bonne lecture !
 * RATNOTTAR, Sanjay. Augmented Reality (AR) Trends: The Past, Present & Future Predictions For 2019. Dans : Towards Data Science [en ligne]. 15 février 2019. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://towardsdatascience.com/augmented-reality-ar-trends-the-past-present-future-predictions-for-2019-8e1148345304.  
 ![Facebook](/Images/app2.JPG)  
 
+* DIGITAL TRENDS. Escape reality with the best augmented reality apps for Android and iOS. Dans : Digital Trends [en ligne]. 29 août 2018. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.digitaltrends.com/mobile/best-augmented-reality-apps/.  
+![Google translate](/Images/app3.JPG)  
