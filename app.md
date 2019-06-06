@@ -40,5 +40,5 @@ Bonne lecture !
 ![Snap et Pokemon](/Images/app1.JPG)  
 
 * RATNOTTAR, Sanjay. Augmented Reality (AR) Trends: The Past, Present & Future Predictions For 2019. Dans : Towards Data Science [en ligne]. 15 février 2019. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://towardsdatascience.com/augmented-reality-ar-trends-the-past-present-future-predictions-for-2019-8e1148345304.  
-
+![Facebook](/Images/app2.JPG)  
 
