@@ -20,14 +20,18 @@
   3.1. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
 5. [Utilisations dans la vie quotidienne](utilisation.md)  
-   5.1. Arkit / ARkore   
-   5.1. [Applications](appli  
-   5.2. [En bibliothèque](bibli.md)  
-   5.3.  En médecine  
-   5.4. [Education ](education.md)  
-   5.5. Patrimoine  
+   5.1. **Arkit / ARkore**   
+   5.2. [Applications](app.md)  
+   5.3. [En bibliothèque](bibli.md)  
+   5.4.  En médecine  
+   5.5. [Education ](education.md)  
+   5.6. Patrimoine  
  6. [Avenir](Avenir.md)  
  -----------------------------------------------
  
- **Applications** utilisant la R.A.
-  -------------------------------------------------------------------------------------------------------------------------------------
+Révolution **Arkit et ARkore** ou la R.A. sur les O.S.
+--------------------------------------------------------------------------------------------------------------------------------
+Deux grands géants: *Apple* et *Google*. Ils ont développé la *réalité augmentée* pour qu'elle soit directement sur les systèmes d'exploitation des smartphones ou tablettes. Ca vous intéresse? Alors, je vous laisse en découvrir plus...
+````
+Bonne lecture !
+````
