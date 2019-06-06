@@ -21,14 +21,19 @@
   3.2. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
 5. [Utilisations dans la vie quotidienne](utilisation.md)   
-   5.1. [Applications](app.md)  
+   5.1. [Applications](app.md) 
+          * **Créer de la R.A.**
    5.2. [En bibliothèque](bibli.md)  
    5.3.  En médecine  
    5.4. [Education ](education.md)  
    5.5. Patrimoine  
- 6. **Créer de la R.A.**
- 7. [Avenir](Avenir.md)  
+6. [Avenir](Avenir.md)  
  -----------------------------------------------
  
- **Applications** utilisant la R.A.
+ **Créer** de la *réalité augmentée*
   -------------------------------------------------------------------------------------------------------------------------------------
+C'est tout à fait possible ! Différentes sociétés proposent à des promoteurs de créer leurs propres __applications__ qui utiliseront la *réalité augmentée*. Voici quelques exemples....
+
+````
+Bonne lecture !
+````
