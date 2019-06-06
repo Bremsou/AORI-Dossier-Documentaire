@@ -32,4 +32,4 @@
   --------------------------------------------------------------------------------------------------------------------------------------
 Dans cette subdivision, nous allons voir les *utilisations de la réalité augmentée* dans l'__éducation et l'apprentissage__.
 
-![utieducation](utiE3.JPG)
+![utieducation 1](utiE3.JPG)
