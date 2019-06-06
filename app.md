@@ -32,7 +32,7 @@
  
  **Applications** utilisant la R.A.
   -------------------------------------------------------------------------------------------------------------------------------------
-  Nous l'avons vu, la *réalité augmentée* est aujourd'hui directement présente sur les systèmes d'exploitation des smartphones et tablettes. Mais de plus en plus d'__applications__ utilisent la R.A. afin de prendre des photos, jouer, visualiser, etc. Je vous laisse découvrir les applis les plus populaires, à vrai dire, elles le sont tellement qu'on ne se rend pas toujours compte qu'elles font utilisent la *réalité augmentée*....
+  Nous l'avons vu, la *réalité augmentée* est aujourd'hui directement présente sur les systèmes d'exploitation des smartphones et tablettes. Mais de plus en plus d'__applications__ utilisent la R.A. afin de prendre des photos, jouer, visualiser, etc. Je vous laisse découvrir les applis les plus populaires, à vrai dire, elles le sont tellement qu'on ne se rend pas toujours compte qu'elles font utilisent la *réalité augmentée*.... Je me limiterais qu'à quelques applications car il y'en a énormément.
 ````
 Bonne lecture !
 ````
