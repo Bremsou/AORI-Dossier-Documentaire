@@ -30,10 +30,9 @@
  
  **Applications** utilisant la R.A.
   -------------------------------------------------------------------------------------------------------------------------------------
-  Nous l'avons vu, la *réalité augmentée* est aujourd'hui présente sur les smartphones. Mais de plus en plus d'__applications__ utilisent la R.A. afin de prendre des photos, jouer, etc. Je vous laiss edécouvrir les applis les plus populaires, elles le sont tellement qu'on ne se rend pas toujours compte qu'elles font usage de la *réalité augmentée*....
+  Nous l'avons vu, la *réalité augmentée* est aujourd'hui directement présente sur les systèmes d'exploitation des smartphones et tablettes. Mais de plus en plus d'__applications__ utilisent la R.A. afin de prendre des photos, jouer, etc. Je vous laisse découvrir les applis les plus populaires, à vrai dire, elles le sont tellement qu'on ne se rend pas toujours compte qu'elles font (bon) usage de la *réalité augmentée*....
 ````
 Bonne lecture !
 ````
-
 * ARTEFACTO. Définition : Qu’est-ce que la réalité mixte ? Dans : Artefacto [en ligne]. 2018. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-mixte/.  
 ![Snap et Pokemon](/Images/app1.JPG)  
