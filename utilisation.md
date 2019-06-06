@@ -1,4 +1,8 @@
-Ici, nous verrons les différentes utilisations de la réalité augmentée, j'ai divisé cette thématique en plusieurs axes.  
+# AORI - Mon Dossier Documentaire
+================================================
+## Vous êtes ici
+
+[Acceuil](Introduction.md)  
 
 1. [Définitions](Definition.md)  
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
@@ -26,7 +30,8 @@ Ici, nous verrons les différentes utilisations de la réalité augmentée, j'ai
  
  **Utilisations** de la technologie dans la __vie quotidienne__
   --------------------------------------------------------------------------------------------------------------------------------------
-Dans quels situations peut-on utiliser la R.A. dans la vie quotidienne de *monsieur et madame tout le monde* ? Cette classe est sans doute une des sections les plus importantes de ce dossier documentaire, étant donné que cela nous concerne tous.tes.
+Dans quels situations peut-on utiliser la R.A. dans la vie quotidienne de *monsieur et madame tout le monde* ? Cette classe est sans doute une des sections les plus importantes de ce dossier documentaire, étant donné que cela nous concerne tous.tes.  
+J'ai encore divisé cette section en plusisuers axes, pour plus de précision.  
 ````
 Bonne lecture !
 ````
