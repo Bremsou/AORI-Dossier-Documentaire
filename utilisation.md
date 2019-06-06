@@ -38,6 +38,7 @@ Bonne lecture !
 * THE INTERACTION DESIGN FOUNDATION. Augmented Reality – The Past, The Present and The Future. Dans : The Interaction Design Foundation [en ligne]. 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.interaction-design.org/literature/article/augmented-reality-the-past-the-present-and-the-future.  
 ![everyday 1](/Images/utiquo2.JPG)  
 
+* ANTAYA, Felipe. La réalité augmentée, d’hier à aujourd’hui. Dans : École branchée [en ligne]. 2 octobre 2017. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://ecolebranchee.com/realite-augmentee-histoire/.  
 ![everyday 2](/Images/utiquo3.JPG)  
 
 * MCFADDEN, Christopher. 9 Powerful Real-World Applications Of Augmented Reality (AR) Today [en ligne]. 27 novembre 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://interestingengineering.com/9-powerful-real-world-applications-of-augmented-reality-ar-today.  
