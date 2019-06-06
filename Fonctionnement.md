@@ -36,6 +36,9 @@ Nous allons répondre à ces questions qui sont plutôt d'ordre technique.
 ````
 Bonne lecture !
 ````
+* UNIVERSITÉ NICE SOPHIA ANTOPOLIS. La réalité augmentée en bibliothèque : quelques applications. Dans : HTTBU [en ligne]. 22 mai 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://bibliotheque-blogs.unice.fr/httbu/2018/05/22/la-realite-augmentee-en-bibliotheque-quelques-applications/.  
+![explication techn5](/Images/
+
 * ANTAYA, Felipe. La réalité augmentée, d’hier à aujourd’hui. Dans : École branchée [en ligne]. 2 octobre 2017. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://ecolebranchee.com/realite-augmentee-histoire/.  
 ![explication techn1](/Images/fonc1.JPG)  
 ![explication tecn3](/Images/fonc3.JPG)
