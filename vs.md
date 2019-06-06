@@ -51,7 +51,7 @@ Bonne lecture !
   
  ![VS schema 3](/Images/vs5.JPG)  
  
- * 
+ * VIRTUAL REALITY SOCIETY. How augmented reality works. Dans : Virtual Reality Society [en ligne]. [s. d.]. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.vrs.org.uk/augmented-reality/how-it-works.html.  
  ![VS 4](/Images/vs6.JPG)
  
  
