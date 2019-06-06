@@ -35,7 +35,7 @@ J'ai encore divisé cette section en plusisuers axes, pour plus de précision.
 ````
 Bonne lecture !
 ````
-
+* THE INTERACTION DESIGN FOUNDATION. Augmented Reality – The Past, The Present and The Future. Dans : The Interaction Design Foundation [en ligne]. 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.interaction-design.org/literature/article/augmented-reality-the-past-the-present-and-the-future.  
 ![everyday 1](/Images/utiquo2.JPG)  
 
 ![everyday 2](/Images/utiquo3.JPG)  
