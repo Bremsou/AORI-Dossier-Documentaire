@@ -21,8 +21,8 @@
   3.2. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
 5. [Utilisations dans la vie quotidienne](utilisation.md)   
-   5.1. [Applications](app.md) 
-          * **Créer de la R.A.**
+   5.1. [Applications](app.md)  
+          * **Créer de la R.A.**  
    5.2. [En bibliothèque](bibli.md)  
    5.3.  En médecine  
    5.4. [Education ](education.md)  
