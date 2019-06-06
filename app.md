@@ -35,4 +35,5 @@
 Bonne lecture !
 ````
 
-* 
+* ARTEFACTO. Définition : Qu’est-ce que la réalité mixte ? Dans : Artefacto [en ligne]. 2018. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-mixte/.  
+![Snap et Pokemon](/Images/app1.JPG)  
