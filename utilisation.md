@@ -31,7 +31,7 @@
  **Utilisations** de la technologie dans la __vie quotidienne__
   --------------------------------------------------------------------------------------------------------------------------------------
 Dans quels situations peut-on utiliser la R.A. dans la vie quotidienne de *monsieur et madame tout le monde* ? Cette classe est sans doute une des sections les plus importantes de ce dossier documentaire, étant donné que cela nous concerne tous.tes.  
-J'ai encore divisé cette section en plusisuers axes, pour plus de précision.  
+J'ai encore divisé cette section en plusieurs axes, pour plus de précision.  
 ````
 Bonne lecture !
 ````
