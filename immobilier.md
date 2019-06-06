@@ -37,3 +37,5 @@ Vous connaissez sans doute *Ikea*. Et bien, eux-aussi utilisent la *réalité au
 ````
 Bonne lecture !
 ````
+* PALMER, Shelly. The current reality of augmented reality [en ligne]. 9 juillet 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://adage.com/article/opinion/current-reality-augmented-reality/314145.  
+![immo1](/Images/ikea1.JPG)  
