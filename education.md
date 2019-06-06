@@ -30,3 +30,4 @@
  
  __Utilisations__ de la technologie dans l'**éducation et l'apprentissage**
   --------------------------------------------------------------------------------------------------------------------------------------
+Dans cette subdivision, nous allons voir les *utilisations de la réalité augmentée* dans l'__éducation et l'apprentissage__.
