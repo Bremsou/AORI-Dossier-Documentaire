@@ -1,4 +1,8 @@
+# AORI - Mon Dossier Documentaire
+================================================
+## Vous êtes ici
 
+[Acceuil](Introduction.md)  
 
 1. [Définitions](Definition.md)  
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
@@ -12,12 +16,28 @@
          * [L'épée de Damoclès](epee.md)  
   2.4. [Réalité artificielle](rearti.md)  
          * [Réalité augmentée](ra.md)  
-3. Présent  
-  3.1. Limites de la R.A.  
+3. [Présent](present.md)  
+  3.1. [Arkit / ARkore](os.md)  
+  3.2. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
-5. [Utilisation](utilisation.md)  
-         * [En général](engeneral.md)  
-         * **En bibliothèque**  
-         * En médecine  
- 6. [Avenir](Avenir.md)  
+5. [Utilisations dans la vie quotidienne](utilisation.md)   
+   5.1. [Applications](app.md)  
+   5.2. **En bibliothèque**  
+   5.3.  En médecine  
+   5.4. [Education ](education.md)  
+   5.5. Patrimoine  
+ 6. [Créer de la R.A.](creation.md)
+ 7. [Avenir](Avenir.md)  
+ -----------------------------------------------
+ 
+ Les **bibliothèques** et la R.A.: amis ou ennemis ?
+  -------------------------------------------------------------------------------------------------------------------------------------
+  Serait-on assez fou pour utiliser la *réalité augmentée* en __bibliothèque__ ? La réponse est: __OUI__ !  
+  La *réalité augmentée* n'est pas qu'utilisée pour jouer à **Pokémon Go**, si les bibliothécaires sont suffisamment informés, ils/elles verront que cette technologie peut se révéler particulièrement utile !
+ ````
+ Bonne lecture !
+ ````
+ 
 
+
+  
