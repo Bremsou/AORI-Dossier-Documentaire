@@ -31,7 +31,7 @@
  
 Révolution **Arkit et ARkore** ou la R.A. sur les O.S.
 --------------------------------------------------------------------------------------------------------------------------------
-Deux grands géants: *Apple* et *Google*. Ils ont développé la *réalité augmentée* pour qu'elle soit directement sur les systèmes d'exploitation des smartphones ou tablettes. Ca vous intéresse? Alors, je vous laisse en découvrir plus...
+Deux grands géants: *Apple* et *Google*. Ils ont développé la *réalité augmentée* pour qu'elle soit directement sur les systèmes d'exploitation des smartphones ou tablettes. Aujourd'hui, les smartphones récents possèdent tous cette foncitonnalité. Ca vous intéresse? Alors, je vous laisse en découvrir plus...
 ````
 Bonne lecture !
 ````
