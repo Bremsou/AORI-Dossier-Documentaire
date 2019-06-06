@@ -19,6 +19,8 @@
 3. Présent  
   3.1. Limites de la R.A.  
 4. **Explications techniques**  
+    4.1. Position + Mouvement  
+    4.2. Marqueur  
 5. [Utilisation](utilisation.md)  
    5.1. [En général](engeneral.md)  
    5.2. [En bibliothèque](bibli.md)  
