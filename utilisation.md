@@ -43,3 +43,6 @@ Bonne lecture !
 
 * MCFADDEN, Christopher. 9 Powerful Real-World Applications Of Augmented Reality (AR) Today [en ligne]. 27 novembre 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://interestingengineering.com/9-powerful-real-world-applications-of-augmented-reality-ar-today.  
 ![everyday3](/Images/utiquo4.JPG)  
+
+* SCIENCE & VIE. La réalité augmentée s’invite à bord du tram. Dans : Science & Vie [en ligne]. [s. d.]. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.science-et-vie.com/archives/la-realite-augmentee-s-invite-a-bord-du-tram-40895.  
+[everyday 4](/Images/utiquo5.JPG)  
