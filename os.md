@@ -38,4 +38,6 @@ Bonne lecture !
 
 * ARTEFACTO. Définition : Qu’est-ce que la réalité mixte ? Dans : Artefacto [en ligne]. 2018. [Consulté le 1 juin 2019]. Disponible à l’adresse : https://www.artefacto-ar.com/realite-mixte/.
 ![os 1](/Images/os1.JPG)
-
+ * PALMER, Shelly. The current reality of augmented reality [en ligne]. 9 juillet 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://adage.com/article/opinion/current-reality-augmented-reality/314145.  
+ ![os2](/Images/os2.JPG)  
+ ![os3](/Images/os3.JPG)  
