@@ -17,6 +17,7 @@
   2.4. [Réalité artificielle](rearti.md)  
          * [Réalité augmentée](ra.md)  
 3. **Présent**  
+  3.1. [Google Glass](google.md)  
   3.1. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
 5. [Utilisation](utilisation.md)  
