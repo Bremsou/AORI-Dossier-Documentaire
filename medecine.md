@@ -39,3 +39,6 @@ Et vous, seriez-vous prêt à vous faire opérer avec l'aide de la **R.A.**?
 ````
 Bonne lecture !
 ````
+
+* SUMRA, Husain. 10 real-world uses of augmented reality happening today. Dans : Wareable [en ligne]. 7 août 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.wareable.com/ar/real-world-ar-uses-6382.  
+![medecine1](/Images/med1.JPG)  
