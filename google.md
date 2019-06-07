@@ -17,12 +17,12 @@
   2.4. [Réalité artificielle](rearti.md)  
          * [Réalité augmentée](ra.md)  
 3. [Présent](present.md)  
-  3.1. [Google Glass](google.md)  
-  3.1. [Arkit / ARkore](os.md)  
-  3.2. [Limites de la R.A.](limits.md)  
+  3.1. **Google Glass**  
+  3.2. [Arkit / ARkore](os.md)  
+  3.3. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
 5. [Utilisations dans la vie quotidienne](utilisation.md)   
-   5.1. [Applications](appli.md)  
+   5.1. [Applications](app.md)  
         * [Créer de la R.A.](creation.md)  
    5.2. [En bibliothèque](bibli.md)  
         * [Limites](bibliL.md)  
@@ -34,5 +34,9 @@
  6. [Avenir](Avenir.md)  
  -----------------------------------------------
  
- **Applications** utilisant la R.A.
+ **Google Glass**
   -------------------------------------------------------------------------------------------------------------------------------------
+Je ne pouvais pas parler de la *réalité augmentée*, sans aborder les __Google Glass__ ! LE produit phare de la *réalité augmentée* contemporaine. Je vous laissé découvrir ce lunettes très particulières....
+````
+Bonne lecture !
+````
