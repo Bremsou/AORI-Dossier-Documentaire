@@ -23,9 +23,9 @@
 5. [Utilisations dans la vie quotidienne](utilisation.md)   
    5.1. **Applications**  
    5.2. [En bibliothèque](bibli.md)  
-   5.3.  En médecine  
+   5.3.  [En médecine](mededcine.md)    
    5.4. [Education ](education.md)  
-   5.5. Patrimoine  
+   5.5. [Patrimoine](patrimoine.md)    
  6. [Créer de la R.A.](creation.md)
  7. [Avenir](Avenir.md)  
  -----------------------------------------------
