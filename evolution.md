@@ -27,7 +27,7 @@
 
 -----------------------------------------------
  
- **Evolution générale** des technologies 
+ **Evolution** de la R.A.
  ----------------------------------------------------------------------------------------------------------------------------------------
  Afin d'introduire l'historique de la __réalité augmentée__, nous allons d'abord commencer par l'*évolution de cette technologie* au fur et à mesure des années jusqu'à nos jours. Vous retrouverez donc majoritairement dans cette section des schémas ou des graphiques en partant des technologies en général, pour aller progressivement vers les progrès de la *réalité augmentée*.
  
