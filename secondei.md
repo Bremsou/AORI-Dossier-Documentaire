@@ -35,4 +35,7 @@ Bonne lecture !
 ````
 
 *  HINOJOSA, Santiago. Virtual Reality - A History of the Future (Part 1). Dans : The Tech Ninja’s Dojo [en ligne]. 27 avril 2016. [Consulté le 1 juin 2019]. Disponible à l’adresse : http://thetech.ninja/virtual-reality-history-future-part-1/.  
-![senso photo](/Images/senso9.JPG)
+![senso photo](/Images/senso9.JPG)  
+
+* 
+![senso explications](/Images/senso10.JPG)  
