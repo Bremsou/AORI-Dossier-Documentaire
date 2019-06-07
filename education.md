@@ -22,7 +22,7 @@
 5. [Utilisations dans la vie quotidienne](utilisation.md)  
    5.1. [Applications](app.md)  
    5.2. [En bibliothèque](bibli.md)  
-   5.3.  En médecine  
+   5.3.  [En médecine](medecine.md)    
    5.4. **Education**  
    5.5. [Patrimoine](patrimoine.md)
  6. [Avenir](Avenir.md)  
