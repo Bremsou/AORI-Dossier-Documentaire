@@ -40,3 +40,6 @@ Bonne lecture !
 * TEXIER, Bruno. Réalité augmentée : un nouveau regard sur le patrimoine. Dans : Archimag [en ligne]. janvier 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.archimag.com/bibliotheque-edition/2016/01/15/realite-augmentee-nouveau-regard-patrimoine.  
 ![patrimoine1](/Images/patri2.JPG)  
 ![patrimoine2](/Images/patri3.JPG)  
+
+* JOST, Clémence. Réalité augmentée : quand Bordeaux développe ses archives. Dans : Archimag [en ligne]. janvier 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.archimag.com/archives-patrimoine/2016/01/15/realite-augmentee-bordeaux-developpe-archives.  
+![patrimoine3](/Images/patri4.JPG)  
