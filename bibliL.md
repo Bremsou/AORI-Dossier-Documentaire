@@ -40,3 +40,6 @@ Bonne lecture !
 ````
 * DUMOUCHEL, Gabriel et FIÉVEZ, Aurélien. Drones, robots, imprmantes 3D et réalité augmentée: la bibliothèque comme espace d’apprentissage tangible. Bibliothèque et éducation [en ligne]. 2016, Vol. 45, no 1, p. 54‑58. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=21607.  
 ![desaventage1](/Images/lib1.JPG)  
+
+* GOSCINIAK, Coline. Réalité augmentée et réalité virtuelle en bibliothèque: dimension managériale et compétences. Dans : DLIS [en ligne]. juin 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://dlis.hypotheses.org/1715.  
+![desavtange2](/Images/lib2.JPG)  
