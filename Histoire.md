@@ -26,15 +26,15 @@
 
 -----------------------------------------------
 **Historique de la réalité augmentée**
--------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 
 Dans cette section vous trouverez les débuts de la réalité augmentée. 
    - *Quand est-elle apparue ?* 
    - *Par qui?* 
-   - *Est-ce le résultat d'une évolution ?*  
-L'historique me semblait être important a aborder puisque cela nous permet de nous resituer par rapport à d'autres technologies.
+   - *Comment ?*  
+L'historique me semblait être important a aborder puisque cela nous permet de nous situer par rapport à d'autres technologies, par exemple.  
+En attendant, je vous propose une évolution des technologies en partant du *général* à ce qui nous intéresse, c'est à dire, *la réalité augmentée* !
 
-#A REVOIR !!
 ````
 Bonne lecture !
 ````
