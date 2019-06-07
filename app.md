@@ -9,7 +9,7 @@
          * [Réalité mixte](mixed.md)  
 2. [Historique](Histoire.md)  
   2.1. [Evolution de la R.A.](evolution.md)  
-  2.2. [Sensorama](sensorama.md)  
+  2.2. [Sensorama simulator](sensorama.md)  
          * [Motion picture projector](premierei.md)   
          * [Motion picture camera](secondei.md)  
   2.3. [Sketchpad](logiciel.md)  
