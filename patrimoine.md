@@ -31,8 +31,10 @@
 Comment la R.A. peut-elle mettre en valeur notre **patrimoine** ?   
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Beaucoup de musées utilisent la R.A. afin de mettre en valaur le __patrimoine__. J'ai trouvé énormément d'articles qui en parlaient, et j'ai donc choisi les articles qui me semblaient les plus pertinents et intéressants.
+Beaucoup de musées utilisent la R.A. afin de mettre en valaur le __patrimoine__. J'ai trouvé énormément d'articles qui en parlaient, et j'ai donc choisi les articles qui me semblaient les plus pertinents et intéressants. 
 
 ````
 Bonne lecture !
 ````
+
+![patrimoine1](/Images/patrimoine1.JPG)
