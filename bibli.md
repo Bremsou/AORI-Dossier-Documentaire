@@ -24,7 +24,7 @@
    5.1. [Applications](app.md)  
    5.2. **En bibliothèque**  
         * [Limites](bibliL.md)  
-        * Potentiels
+        * Potentiels  
    5.3.  En médecine  
    5.4. [Education ](education.md)  
    5.5. Patrimoine  
