@@ -42,9 +42,7 @@
  
  *  TEXIER, Bruno. Réalité augmentée : « les bibliothécaires doivent mettre les mains dans le cambouis ». Dans : Archimag [en ligne]. janvier 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.archimag.com/bibliotheque-edition/2016/01/15/realite-augmentee-bibliothecaires-mettre-mains-cambouis.  
 ![bili1](/Images/bibli1.JPG)  
-
-* 
-![bili2](/Images/bili2.JPG)  
+![bili2](/Images/bili2.JPG)   
 
 * UNIVERSITÉ NICE SOPHIA ANTOPOLIS. La réalité augmentée en bibliothèque : quelques applications. Dans : HTTBU [en ligne]. 22 mai 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://bibliotheque-blogs.unice.fr/httbu/2018/05/22/la-realite-augmentee-en-bibliotheque-quelques-applications/.  
 ![bibli3](/Images/bibli3.JPG)  
