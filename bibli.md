@@ -23,6 +23,7 @@
 5. [Utilisations dans la vie quotidienne](utilisation.md)   
    5.1. [Applications](app.md)  
    5.2. **En bibliothèque**  
+        * Limites
    5.3.  En médecine  
    5.4. [Education ](education.md)  
    5.5. Patrimoine  
