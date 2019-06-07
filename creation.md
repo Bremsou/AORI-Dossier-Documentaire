@@ -39,3 +39,6 @@ Bonne lecture !
 ````
 * PALMER, Shelly. The current reality of augmented reality [en ligne]. 9 juillet 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://adage.com/article/opinion/current-reality-augmented-reality/314145.  
 ![creation1](/Images/creation1.JPG)  
+
+* RÉALITÉ VIRTUELLE. Définition réalité augmentée – Qu’est-ce que la RA ? Dans : Réalité-Virtuelle.com [en ligne]. [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.realite-virtuelle.com/definition-realite-augmentee.  
+![creation2](/Images/creation2.JPG)  
