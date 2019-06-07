@@ -24,7 +24,7 @@
    5.2. [En bibliothèque](bibli.md)  
    5.3.  En médecine  
    5.4. **Education**  
-   5.5. Patrimoine
+   5.5. [Patrimoine](patrimoine.md)
  6. [Avenir](Avenir.md)  
  -----------------------------------------------
  
