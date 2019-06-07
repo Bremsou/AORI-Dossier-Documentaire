@@ -22,7 +22,7 @@
 4. [Explications techniques](Fonctionnement.md)  
 5. [Utilisations dans la vie quotidienne](utilisation.md)   
    5.1. **Applications**  
-        * [Créer de la R.A.](creation.md)
+        * [Créer de la R.A.](creation.md)  
    5.2. [En bibliothèque](bibli.md)  
         * [Limites](bibliL.md)  
         * [Potentiels](potentielb.md)  
