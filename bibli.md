@@ -51,4 +51,7 @@
 ![bibli4](/Images/bibli4.JPG)  
 ![bibli5](/Images/bibli5.JPG)  
 
+* TEXIER, Bruno. Réalité augmentée : un nouveau regard sur le patrimoine. Dans : Archimag [en ligne]. janvier 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.archimag.com/bibliotheque-edition/2016/01/15/realite-augmentee-nouveau-regard-patrimoine.   
+![bili6](/Images/bibli6.JPG)  
+
   
