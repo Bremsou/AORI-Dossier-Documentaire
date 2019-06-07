@@ -46,4 +46,4 @@ Bonne lecture !
 ![potentiel 2](/Images/avab2.JPG)  
 
 * ROBERGE, Alexandre. Les bénéfices de la réalité augmentée pour les bibliothèques. Dans : Thot Cursus [en ligne]. juin 2017. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://cursus.edu/articles/37455/les-benefices-de-la-realite-augmentee-pour-les-bibliotheques#.XPojF4gzZyw.  
-![potentiel 3](/Imagess/avab3.JPG)  
+![potentiel 3](/Images/avab3.JPG)  
