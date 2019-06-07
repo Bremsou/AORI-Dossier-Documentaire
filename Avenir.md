@@ -38,4 +38,8 @@ Bonne lecture !
 * RATNOTTAR, Sanjay. Augmented Reality (AR) Trends: The Past, Present & Future Predictions For 2019. Dans : Towards Data Science [en ligne]. 15 février 2019. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://towardsdatascience.com/augmented-reality-ar-trends-the-past-present-future-predictions-for-2019-8e1148345304.  
 ![avenir1](/Images/ave1.JPG)  
 * WERNER, John et TEDXASBURYPARK. Augmented Reality [en ligne]. Asbury Park, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=RDvBowq3ed8. 
-![evolution RA1](/Images/evo5.JPG)
+![evolution RA1](/Images/evo5.JPG)  
+
+* THE INTERACTION DESIGN FOUNDATION. Augmented Reality – The Past, The Present and The Future. Dans : The Interaction Design Foundation [en ligne]. 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.interaction-design.org/literature/article/augmented-reality-the-past-the-present-and-the-future.  
+![
+
