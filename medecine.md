@@ -45,3 +45,6 @@ Bonne lecture !
 
 * RÉALITÉ VIRTUELLE. Définition réalité augmentée – Qu’est-ce que la RA ? Dans : Réalité-Virtuelle.com [en ligne]. [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.realite-virtuelle.com/definition-realite-augmentee.  
 ![medecine2](/Images/med2.JPG)  
+
+* FRÉSILLON, Cyrille. La réalité augmentée au service de la chirurgie. Dans : Futura Santé [en ligne]. [s. d.]. [Consulté le 9 avril 2019]. Disponible à l’adresse : https://www.futura-sciences.com/sante/photos/medecine-imagerie-biomedicale-corps-humain-vu-interieur-711/medecine-realite-augmentee-service-chirurgie-5216/.  
+![medecine3](/Images/med3.JPG)  
