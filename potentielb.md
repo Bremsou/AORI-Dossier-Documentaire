@@ -44,3 +44,6 @@ Bonne lecture !
 
 *  TEXIER, Bruno. Réalité augmentée : « les bibliothécaires doivent mettre les mains dans le cambouis ». Dans : Archimag [en ligne]. janvier 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.archimag.com/bibliotheque-edition/2016/01/15/realite-augmentee-bibliothecaires-mettre-mains-cambouis.  
 ![potentiel 2](/Images/avab2.JPG)  
+
+* ROBERGE, Alexandre. Les bénéfices de la réalité augmentée pour les bibliothèques. Dans : Thot Cursus [en ligne]. juin 2017. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://cursus.edu/articles/37455/les-benefices-de-la-realite-augmentee-pour-les-bibliotheques#.XPojF4gzZyw.  
+![potentiel 3](/Imagess/avab3.JPG)  
