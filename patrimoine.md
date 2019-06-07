@@ -37,4 +37,4 @@ Beaucoup de musées utilisent la R.A. afin de mettre en valaur le __patrimoine__
 Bonne lecture !
 ````
 
-![patrimoine1](/Images/patri1.JPG)
+![patrimoine1](/Images/patri2.JPG)
