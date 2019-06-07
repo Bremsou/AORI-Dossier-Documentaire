@@ -33,7 +33,7 @@
  
 La R.A. s'invite dans les **salles d'opération**
 --------------------------------------------------------------------------------------------------------------------------------
-La R.A. a énormément de potentiel dans de très nombreux domaines. Etonamment, elle peut aussi être utilisée dans le monde **médical**, pour des opérations, notamment. Et vous, seriez-vous prêt à vous faire opérer avec l'aide de la **R.A.**?
+La R.A. a énormément de potentiel dans de nombreux domaines. Etonamment, elle peut aussi être utilisée dans le monde **médical**, pour des opérations, notamment. Et vous, seriez-vous prêt à vous faire opérer avec l'aide de la **R.A.**?
 
 ````
 Bonne lecture !
