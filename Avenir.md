@@ -43,3 +43,6 @@ Bonne lecture !
 * THE INTERACTION DESIGN FOUNDATION. Augmented Reality – The Past, The Present and The Future. Dans : The Interaction Design Foundation [en ligne]. 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.interaction-design.org/literature/article/augmented-reality-the-past-the-present-and-the-future.  
 ![avenir2](/Images/ave2.JPG)  
 
+* WERNER, John et TEDXASBURYPARK. Augmented Reality [en ligne]. Asbury Park, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=RDvBowq3ed8.  
+![avenir3](/Images/ave3.JPG)  
+
