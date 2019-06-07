@@ -38,4 +38,7 @@ Dans cette subdivision, nous allons voir les *utilisations de la réalité augme
 * PALMER, Shelly. The current reality of augmented reality [en ligne]. 9 juillet 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://adage.com/article/opinion/current-reality-augmented-reality/314145.  
 ![education 2](/Images/utiE4.JPG)  
 *   HAPPICH, Julien. Kids to design their own robot through AR. In eeNews. Avril 2019, p. 25.  
-![education3](/Images/utiE5.JPG)
+![education3](/Images/utiE5.JPG)  
+
+* MCFADDEN, Christopher. 9 Powerful Real-World Applications Of Augmented Reality (AR) Today. Dans : Interesting engineering [en ligne]. 27 novembre 2018. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://interestingengineering.com/9-powerful-real-world-applications-of-augmented-reality-ar-today.  
+![education4](/Images/utiE6.JPG)  
