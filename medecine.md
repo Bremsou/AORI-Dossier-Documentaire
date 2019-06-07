@@ -42,3 +42,6 @@ Bonne lecture !
 
 * SUMRA, Husain. 10 real-world uses of augmented reality happening today. Dans : Wareable [en ligne]. 7 août 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.wareable.com/ar/real-world-ar-uses-6382.  
 ![medecine1](/Images/med1.JPG)  
+
+* RÉALITÉ VIRTUELLE. Définition réalité augmentée – Qu’est-ce que la RA ? Dans : Réalité-Virtuelle.com [en ligne]. [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.realite-virtuelle.com/definition-realite-augmentee.  
+![medecine2](/Images/med2.JPG)  
