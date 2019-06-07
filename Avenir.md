@@ -24,11 +24,17 @@
          * [En bibliothèque](bibli.md)  
          * En médecine  
  6. **Avenir**  
+-----------------------------------------------
+ 
+ **Avenir et Conclusion** de la R.A.
+  --------------------------------------------------------------------------------------------------------------------------------------
+Nous y voici ! La fin de ce dossier documentaire est toute proche, et quoi de mieux pour terminer ce dossier en beauté que de penser au __futur__ de la *réalité augmentée* ?  
 
+````
+J'éspère avoir répondu a vos questions sur cette technologie, et que cela vous a permis d'y voir plus clair !  
+Bonne lecture !
+````
 
-
-## Quel est l'avenir de la *réalité augmentée* ?
-
-
+* 
 * WERNER, John et TEDXASBURYPARK. Augmented Reality [en ligne]. Asbury Park, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=RDvBowq3ed8. 
 ![evolution RA1](/Images/evo5.JPG)
