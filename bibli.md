@@ -41,7 +41,7 @@
  ````
  
  *  TEXIER, Bruno. Réalité augmentée : « les bibliothécaires doivent mettre les mains dans le cambouis ». Dans : Archimag [en ligne]. janvier 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.archimag.com/bibliotheque-edition/2016/01/15/realite-augmentee-bibliothecaires-mettre-mains-cambouis.  
- [bili1](/Images/bibli1.JPG)  
+![bili1](/Images/bibli1.JPG)  
 
 
   
