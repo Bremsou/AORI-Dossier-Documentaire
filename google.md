@@ -18,6 +18,7 @@
          * [Réalité augmentée](ra.md)  
 3. [Présent](present.md)  
   3.1. **Google Glass**  
+         * [Microsoft Hololens](microsoft.md)  
   3.2. [Arkit / ARkore](os.md)  
   3.3. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
