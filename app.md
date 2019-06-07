@@ -45,5 +45,5 @@ Bonne lecture !
 * DIGITAL TRENDS. Escape reality with the best augmented reality apps for Android and iOS. Dans : Digital Trends [en ligne]. 29 août 2018. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.digitaltrends.com/mobile/best-augmented-reality-apps/.  
 ![Google translate](/Images/app3.JPG)  
 
-* 
+* DUMOUCHEL, Gabriel et FIÉVEZ, Aurélien. Drones, robots, imprmantes 3D et réalité augmentée: la bibliothèque comme espace d’apprentissage tangible. Bibliothèque et éducation [en ligne]. 2016, Vol. 45, no 1, p. 54‑58. Disponible à l’adresse : http://catalogue.iessid.be/index.php?lvl=notice_display&id=21607.  
 ![App educative](/Images/app4.JPG)  
