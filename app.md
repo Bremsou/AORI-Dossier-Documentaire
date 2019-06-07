@@ -22,14 +22,14 @@
 4. [Explications techniques](Fonctionnement.md)  
 5. [Utilisations dans la vie quotidienne](utilisation.md)   
    5.1. **Applications**  
+        * [Créer de la R.A.](creation.md)
    5.2. [En bibliothèque](bibli.md)  
         * [Limites](bibliL.md)  
         * [Potentiels](potentielb.md)  
-   5.3. [En médecine](mededcine.md)    
+   5.3. [En médecine](medecine.md)    
    5.4. [Education ](education.md)  
    5.5. [Patrimoine](patrimoine.md)    
- 6. [Créer de la R.A.](creation.md)
- 7. [Avenir](Avenir.md)  
+ 6. [Avenir](Avenir.md)  
  -----------------------------------------------
  
  **Applications** utilisant la R.A.
