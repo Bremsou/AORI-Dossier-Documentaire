@@ -44,7 +44,7 @@
 ![bili1](/Images/bibli1.JPG)  
 
 * 
-![bili2](/Images/bibli2.JPG)  
+![bili2](/Images/bili2.JPG)  
 
 * UNIVERSITÉ NICE SOPHIA ANTOPOLIS. La réalité augmentée en bibliothèque : quelques applications. Dans : HTTBU [en ligne]. 22 mai 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://bibliotheque-blogs.unice.fr/httbu/2018/05/22/la-realite-augmentee-en-bibliotheque-quelques-applications/.  
 ![bibli3](/Images/bibli3.JPG)  
