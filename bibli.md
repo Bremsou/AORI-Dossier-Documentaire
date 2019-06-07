@@ -47,4 +47,8 @@
 * UNIVERSITÉ NICE SOPHIA ANTOPOLIS. La réalité augmentée en bibliothèque : quelques applications. Dans : HTTBU [en ligne]. 22 mai 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : http://bibliotheque-blogs.unice.fr/httbu/2018/05/22/la-realite-augmentee-en-bibliotheque-quelques-applications/.  
 ![bibli3](/Images/bibli3.JPG)  
 
+* JOST, Clémence. A quoi ressemble la Cybrary, cette bibliothèque du futur conçue comme un parc d’attractions ? Dans : Archimag [en ligne]. mars 2017. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.archimag.com/bibliotheque-edition/2017/03/02/cybrary-bibliotheque-futur-parc-attractions.  
+![bibli4](/Images/bibli4.JPG)  
+![bibli5](/Images/bibli5.JPG)  
+
   
