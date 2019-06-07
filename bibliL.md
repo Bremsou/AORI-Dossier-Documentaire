@@ -43,3 +43,6 @@ Bonne lecture !
 
 * GOSCINIAK, Coline. Réalité augmentée et réalité virtuelle en bibliothèque: dimension managériale et compétences. Dans : DLIS [en ligne]. juin 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://dlis.hypotheses.org/1715.  
 ![desavtange2](/Images/lib2.JPG)  
+
+*  TEXIER, Bruno. Réalité augmentée : « les bibliothécaires doivent mettre les mains dans le cambouis ». Dans : Archimag [en ligne]. janvier 2016. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.archimag.com/bibliotheque-edition/2016/01/15/realite-augmentee-bibliothecaires-mettre-mains-cambouis.  
+![desavantage3](/Images/lib3.JPG)  
