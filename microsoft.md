@@ -18,7 +18,7 @@
          * [Réalité augmentée](ra.md)  
 3. [Présent](present.md)  
   3.1. [Google Glass](google.md)  
-         * [Microsoft Hololens](microsoft.md)  
+         * **Microsoft Hololens**  
   3.2. [Arkit / ARkore](os.md)  
   3.3. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
@@ -35,5 +35,5 @@
  6. [Avenir](Avenir.md)  
  -----------------------------------------------
  
- **Applications** utilisant la R.A.
+ **Microsoft Hololens** ou le concurrent des __Google Glass__
   -------------------------------------------------------------------------------------------------------------------------------------
