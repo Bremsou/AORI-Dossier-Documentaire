@@ -39,7 +39,7 @@ Bla Bla Bla
 5. [Utilisations dans la vie quotidienne](utilisation.md)   
    5.1. [Applications](app.md)  
      * [Créer de la R.A.](creation.md)  
-   5.2. [En bibliothèque](bibli.md)  
+  5.2. [En bibliothèque](bibli.md)  
      *  [Limites](bibliL.md)  
      * [Potentiels](potentielb.md)  
    5.3. [En médecine](medecine.md)    
