@@ -17,8 +17,7 @@
   2.4. [Réalité artificielle](rearti.md)  
          * [Réalité augmentée](ra.md)  
 3. [Présent](present.md)  
-  3.1. **Google Glass**  
-         * [Microsoft Hololens](microsoft.md)  
+  3.1. **Google Glass**    
   3.2. [Arkit / ARkore](os.md)  
   3.3. [Limites de la R.A.](limits.md)  
 4. [Explications techniques](Fonctionnement.md)  
@@ -43,3 +42,6 @@ Bonne lecture !
 ````
 * WERNER, John et TEDXASBURYPARK. Augmented Reality [en ligne]. Asbury Park, [s. d.]. [Consulté le 7 avril 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=RDvBowq3ed8.  
 ![google g1](/Images/goo1.JPG)  
+
+* ISBERTO, Michael. 2018 Update: A Timeline and History of Augmented Reality. Dans : Colocation America [en ligne]. 9 mai 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.colocationamerica.com/blog/history-of-augmented-reality.  
+![google g2](/Images/goo2.JPG)  
