@@ -4,26 +4,34 @@
 
 [Acceuil](Introduction.md)  
 
-1. [Définitions](Definition.md)  
+1. [Définitions](Definition.md)    
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
-         1.1.1. [Réalité mixte](mixed.md)  
+     * [Réalité mixte](mixed.md)  
 2. [Historique](Histoire.md)  
   2.1. [Evolution de la R.A.](evolution.md)  
   2.2. [Sensorama simulator](sensorama.md)  
-         2.2.1. [Motion picture projector](premierei.md)   
-         2.2.2. [Motion picture camera](secondei.md)  
+     * [Motion picture projector](premierei.md)   
+     * [Motion picture camera](secondei.md)  
   2.3. [Sketchpad](logiciel.md)  
-         2.3.1. [L'épée de Damoclès](epee.md)  
+     * [L'épée de Damoclès](epee.md)  
   2.4. [Réalité artificielle](rearti.md)  
-         2.4.1. [Réalité augmentée](ra.md)  
-3. Présent  
-  3.1. Limites de la R.A.  
-4. **Explications techniques**  
- 5. [Utilisation](utilisation.md)  
-   5.1. [En général](engeneral.md)  
-   5.2. [En bibliothèque](bibli.md)  
-   5.3. En médecine  
- 6. [Avenir](Avenir.md)  
+     *  [Réalité augmentée](ra.md)  
+3. [Présent](present.md)  
+  3.1. [Google Glass](google.md)      
+  3.2. [Arkit / ARkore](os.md)  
+  3.3. [Limites de la R.A.](limits.md)  
+4. **Explications techniques**   
+5. [Utilisations dans la vie quotidienne](utilisation.md)   
+   5.1. [En médecine](medecine.md)    
+   5.2. [Education ](education.md)   
+   5.3. [Immobilier](immobilier.md)  
+   5.4. [Patrimoine](patrimoine.md)  
+   5.5. [Applications](app.md)  
+     * [Créer de la R.A.](creation.md)  
+   5.6. [En bibliothèque](bibli.md)  
+     *  [Limites](bibliL.md)  
+     * [Potentiels](potentielb.md)   
+ 6. [Avenir](Avenir.md)    
 -----------------------------------------------
  
  **Explications techniques** de la technologie
