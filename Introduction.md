@@ -43,7 +43,7 @@ Bla Bla Bla
    5.4. [Patrimoine](patrimoine.md)  
    5.5. [Applications](app.md)  
      * [Créer de la R.A.](creation.md)  
-5.6. [En bibliothèque](bibli.md)  
+   5.6. [En bibliothèque](bibli.md)  
      *  [Limites](bibliL.md)  
      * [Potentiels](potentielb.md)   
  6. [Avenir](Avenir.md)  
