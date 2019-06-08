@@ -45,3 +45,6 @@ Bonne lecture !
 
 * ISBERTO, Michael. 2018 Update: A Timeline and History of Augmented Reality. Dans : Colocation America [en ligne]. 9 mai 2018. [Consulté le 8 mai 2019]. Disponible à l’adresse : https://www.colocationamerica.com/blog/history-of-augmented-reality.  
 ![google g2](/Images/goo2.JPG)  
+
+* PRICEWATERHOUSECOOPERS. The Evolution of Augmented Reality. Dans : PwC [en ligne]. [s. d.]. [Consulté le 5 juin 2019]. Disponible à l’adresse : https://www.pwc.be/en/news-publications/insights/2017/the-evolution-of-augmented-reality.html.  
+![google g3](/Images/goo3.JPG)  
