@@ -37,7 +37,7 @@
 **La réalité artificielle**  de Myron Krueger
 ----------------------------------------------------------------------------------------------------------------------------------------
 Après Sutherland, nous retrouvons __Myron Krueger__. Le terme *réalité augmentée* n'est pas encore apparu. A défaut de cela, Krueger est arrivé avec la terminologie de **réalité artificielle**, on pourrait presque croire qu'il s'agit là d'un titre pour un film de science-fiction...mais non! Lentement nous nous rapprochons de la réalité augmentée telle que nous l'a connaissons aujourd'hui.  
-Krueger met au point un système qu'il appelera: __Videoplace__
+Krueger met au point un système qu'il appellera: __Videoplace__
 
 ````
 Bonne lecture !
