@@ -32,6 +32,7 @@
      *  [Limites](bibliL.md)  
      * [Potentiels](potentielb.md)   
  6. **Avenir**   
+ 7. [Bibliographie](bibliogr.md)  
 -----------------------------------------------
  
  **Avenir et Conclusion** de la R.A.
