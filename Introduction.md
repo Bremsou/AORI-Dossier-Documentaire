@@ -11,13 +11,13 @@ Ce dossier documentaire prend la forme d'une page web, il compulse différents d
 Ce dossier est divisé en différentes sections et sous-divisions que vous retrouverez plus bas.  
 
 ### Petit mot d'introduction sur la réalité augmentée
-------------------------------------------------------------------------------------------------------------------------------------------
-Bla Bla Bla
-
+---------------------------------------------------------------------------------------------------------------------------------------
+La __réalité augmentée__, voilà une technologie qui ne vous est pas inconnue !  *Mais savez-vous exactement ce qu'elle est ? *  *Son utilité ?*  *Et son importance ?*  
+Si vous avez répondu au moins une fois ''non'' à cette question, alors je vous conseille très fortement la lecture de ce dossier documentaire.  Ensemble, nous allons découvrir le **potentiel** que cette technologie nous réserve. Etes-vous prêt à voyager: dans le *passé*, *présent* et *futur* ?  Alors, c'est parti !
 
 ### Voici la strucuture de mon dossier documentaire...
 -------------------------------------------------------------------------------------------------------------------------------------------
-##### Réalité Augmentée
+## Réalité Augmentée
 -------------------------------------------------------------------------------------------------------------------------------------------
 1. [Définitions](Definition.md)    
   1.1. [Réalité virtuelle V.S. augmentée](vs.md)    
